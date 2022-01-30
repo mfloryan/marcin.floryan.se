@@ -1,0 +1,15 @@
+---
+layout: default
+title: Podcast Highlights
+---
+<article>
+My audio listening is mostly podcast listening. Here is a small sample of my "podcast hits": past episodes I enjoyed.
+
+<ul>
+    {% for item in site.data.podcasts %}
+    <li> {{ item.show }} &mdash; <a href="{{ item.url }}">{{ item.name }}</a></li>
+    {% endfor %}
+</ul>
+
+You can find all of these (and possibly some new additions) on my <a href="https://open.spotify.com/playlist/67KaWBZICUBshbQgGVl8Jt" target="_blank">Spotify playlist</a>.
+</article>
