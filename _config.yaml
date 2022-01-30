@@ -3,12 +3,11 @@ description: >
   Marcin Floryan: Working with psychological safety, technology and complexity 
   to understand and influence systems of work. http://pronoun.is/he; agile descaler @Spotify
 tagline: Marcin's personal wesbite
-locale: en_GB
-lang: en_GB
 author:
   name: Marcin Floryan
   twitter: mfloryan
   url: https://marcin.floryan.pl/
+
 social:
   name: Marcin Floryan
   links:
@@ -17,12 +16,16 @@ social:
     - https://www.linkedin.com/in/mfloryan/
     - https://github.com/mfloryan
     - https://keybase.io/mfloryan
- social_links:
-    twitter: mfloryan
-    github:  mfloryan
-    facebook: mfloryan
-    instagram: mf.se
-    linkedin: mfloryan
-    keybase: mfloryan
+social_links:
+  twitter: mfloryan
+  github:  mfloryan
+  facebook: mfloryan
+  instagram: mf.se
+  linkedin: mfloryan
+  keybase: mfloryan
+
+locale: en_GB
+lang: en_GB
+timezone: Europe/Stockholm
 plugins:
   - jekyll-seo-tag
