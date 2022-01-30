@@ -3,6 +3,13 @@ description: >
   Marcin Floryan: Working with psychological safety, technology and complexity 
   to understand and influence systems of work. http://pronoun.is/he; agile descaler @Spotify
 tagline: Marcin's personal wesbite
+keywords:
+  - Marcin Floryan
+  - software development
+  - Spotify
+  - leadership
+  - engineering
+  - agile
 author:
   name: Marcin Floryan
   twitter: mfloryan
@@ -27,5 +34,6 @@ social_links:
 locale: en_GB
 lang: en_GB
 timezone: Europe/Stockholm
+exclude: ['*.sh', '_tools/']
 plugins:
   - jekyll-seo-tag
