@@ -1,0 +1,11 @@
+---
+layout: default
+title: A collection of quotes
+---
+
+{% for item in site.data.quotes %}
+<blockquote>
+  {{ item.quote }}
+</blockquote>
+<div>{{ item.author }}</div>
+{% endfor %}
