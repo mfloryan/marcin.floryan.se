@@ -1,3 +1,9 @@
-_site/
+# Editor configuration
+.vscode/
+
+# Cache
 .jekyll-cache/
+
+# Generated content
+_site/
 marcin.floryan.pl/
