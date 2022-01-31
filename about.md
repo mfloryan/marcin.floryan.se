@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
+title: Marcin
 ---
-# About page
+# Marcin
 
 This page tells you a little bit about me.
