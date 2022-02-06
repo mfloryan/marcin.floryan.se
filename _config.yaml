@@ -34,6 +34,6 @@ social_links:
 locale: en_GB
 lang: en_GB
 timezone: Europe/Stockholm
-exclude: ['*.sh', '_tools/']
+exclude: ['*.sh', '_tools/', 'README.md']
 plugins:
   - jekyll-seo-tag
