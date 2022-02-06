@@ -1,8 +1,2 @@
-- name: Home
-  link: /
-- name: My journey
-  link: /journey.html
-- name: Podcasts
-  link: /podcasts.html
 - name: Quotes
   link: /quotes.html
