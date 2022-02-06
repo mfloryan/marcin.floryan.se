@@ -1,7 +1,55 @@
-.current {
-    color: green;
+
+$primary-hue: 223;
+// $primary-600: hsl(223, 54%, 25%);
+
+@import "pico/pico.scss";
+
+// #8C1932
+
+
+small {
+  --font-size: 0.6rem;
+}
+
+blockquote {
+  footer {
+    text-align: right;
   }
+}
+
+
+img#logo {
+  width: 3rem;
+}
 
 footer {
-  padding-top: 1em;
+  small {
+    div {
+      text-align: center;
+      line-height: 1.2rem;
+    }
+  }
+}
+
+
+img.svg-white {
+  filter: invert(1);
+}
+
+
+.current {
+    color: #8C1932;
+  }
+
+.clip-circle {
+  clip-path: circle(50% at center);
+}
+
+.drop-cap {
+  float:left;
+  font-size: 1.8rem;
+  line-height: 0.8rem;
+  padding-top: 0.2rem;
+  padding-right: 0.5rem;
+  padding-left: 0.2rem;
 }
