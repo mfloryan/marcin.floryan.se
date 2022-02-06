@@ -1,14 +1,18 @@
 ---
 layout: default
-title: A collection of quotes
+title: Quotes collection
 ---
 <h1>Quotes</h1>
 
-A random collection of quotes that I found interesting and inspiring
+<section>Collection of quotes that I found interesting or inspiring.</section>
 
 {% for item in site.data.quotes %}
 <blockquote>
   {{ item.quote }}
+  <footer>
+    <cite>{{ item.author }}</cite>
+  </footer>
 </blockquote>
-<div>{{ item.author }}</div>
+
 {% endfor %}
+</article>
