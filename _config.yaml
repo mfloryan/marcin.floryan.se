@@ -15,6 +15,10 @@ author:
   twitter: mfloryan
   url: https://marcin.floryan.pl/
 
+collections:
+  events:
+    output: true
+
 social:
   name: Marcin Floryan
   links:
