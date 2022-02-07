@@ -1,4 +1,5 @@
 ---
+publised: true
 layout: default
 type: interview
 event: Dept Tech Day
