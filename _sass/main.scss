@@ -19,7 +19,7 @@ img#logo {
   width: 3rem;
 }
 
-footer {
+footer#site {
   background-color: #8c1932;
   background: linear-gradient(45deg, #1e3264 0%, #8c1932 100%);
   small {
@@ -63,13 +63,4 @@ footer {
 
 .clip-circle {
   clip-path: circle(50% at center);
-}
-
-.drop-cap {
-  float: left;
-  font-size: 1.8rem;
-  line-height: 0.8rem;
-  padding-top: 0.2rem;
-  padding-right: 0.5rem;
-  padding-left: 0.2rem;
 }
