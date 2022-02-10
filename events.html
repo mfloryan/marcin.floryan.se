@@ -5,10 +5,20 @@ title: Sharing
 <h1>Sharing</h1>
 I like sharing my experiences and ideas with others.
 
-{% for event in site.events %}
+<dl>
+{% for event in site.events reversed %}
   {% assign content = event.content | strip_newlines %}
-  <section>
-  <pre>{{ event.date | date_to_string }} {{ event.type }}</pre>
-  {% unless content == empty %} <a href="{{ event.url }}">{{ event.type }}</a> {% endunless %}
-  </section>
+  <dt class="{{ event.type }}">{{ event.date | date_to_string }}</dt>
+  <dd>
+    {{ event.name }}: <a href="{{event.link}}" target="_blank"><b>{{ event.title }}</b></a>
+    {% if event.links %}
+    {% for link in event.links %}
+    <a href="{{link.link}}" target="_blank" class="{{link.type}}">{{link.type}}</a>
+    {% endfor %}
+    {% endif %}
+
+    {% unless content == empty %} <a href="{{ event.url }}">{{ event.type }}</a> {% endunless %}
+  </dd>  
+  
 {% endfor %}
+</dl>

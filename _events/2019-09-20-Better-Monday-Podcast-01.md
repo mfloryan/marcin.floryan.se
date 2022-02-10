@@ -1,7 +1,7 @@
 ---
-published: false
+output: false
 type: podcast
-show: Better Monday podcast
+name: Better Monday podcast
 title: "Episode # 1: Spotify – Different shades of diversity with Marcin Floryan"
 links:
   - type: episode

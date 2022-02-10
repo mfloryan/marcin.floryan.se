@@ -1,8 +1,7 @@
 ---
-publised: true
 layout: default
 type: interview
-event: Dept Tech Day
+name: Dept Tech Day
 title: "Spotify: Creating a developer-first culture"
 link: https://www.linkedin.com/events/6883771404567789568/about/
 ---

@@ -1,7 +1,7 @@
 ---
-published: false
+output: false
 type: conference
-event: ACE!2014
+name: ACE!2014
 title: "#NoLearning"
 link: https://aceconf.com/speaker/173/marcin-floryan
 ---

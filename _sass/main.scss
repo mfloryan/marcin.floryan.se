@@ -31,11 +31,17 @@ footer {
   }
 }
 
-
-img.svg-white {
-  filter: invert(1);
+dt.podcast::after {
+  content : " 🎧";
 }
 
+dt.conference::after {
+  content : " 🗣";
+}
+
+dd {
+  padding-bottom: 0.8rem;
+}
 
 .current {
     color: #8C1932;

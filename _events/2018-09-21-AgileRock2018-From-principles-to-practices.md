@@ -1,7 +1,7 @@
 ---
-published: false
+output: false
 type: conference
-event: Agile Rock 2018
+name: Agile Rock 2018
 title: From Principles to Practices
 links:
   - type: youtube
