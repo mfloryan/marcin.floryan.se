@@ -1,11 +1,9 @@
-
 $primary-hue: 223;
 // $primary-600: hsl(223, 54%, 25%);
 
 @import "pico/pico.scss";
 
 // #8C1932
-
 
 small {
   --font-size: 0.6rem;
@@ -17,12 +15,13 @@ blockquote {
   }
 }
 
-
 img#logo {
   width: 3rem;
 }
 
 footer {
+  background-color: #8c1932;
+  background: linear-gradient(45deg, #1e3264 0%, #8c1932 100%);
   small {
     div {
       text-align: center;
@@ -43,16 +42,31 @@ dd {
   padding-bottom: 0.8rem;
 }
 
-.current {
-    color: #8C1932;
+
+footer {
+  [role="button"] {
+    --background-color: white;
+    --border-color: white;
+    
+    &:hover,
+    &:active,
+    &:focus {
+      --background-color: silver;
+      --border-color: silver;
+    }
   }
+}
+
+.current {
+  color: #8c1932;
+}
 
 .clip-circle {
   clip-path: circle(50% at center);
 }
 
 .drop-cap {
-  float:left;
+  float: left;
   font-size: 1.8rem;
   line-height: 0.8rem;
   padding-top: 0.2rem;
