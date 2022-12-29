@@ -1,66 +1,70 @@
-$primary-hue: 223;
-// $primary-600: hsl(223, 54%, 25%);
+// $primary-hue: 223;
+// // $primary-600: hsl(223, 54%, 25%);
 
-@import "pico/pico.scss";
+// @import "pico/pico.scss";
 
-// #8C1932
+// // #8C1932
 
-small {
-  --font-size: 0.6rem;
-}
+// small {
+//   --font-size: 0.6rem;
+// }
 
-blockquote {
-  footer {
-    text-align: right;
-  }
-}
+// blockquote {
+//   footer {
+//     text-align: right;
+//   }
+// }
 
-img#logo {
-  width: 3rem;
-}
+// img#logo {
+//   width: 3rem;
+// }
 
-footer#site {
-  background-color: #8c1932;
-  background: linear-gradient(45deg, #1e3264 0%, #8c1932 100%);
-  small {
-    div {
-      text-align: center;
-      line-height: 1.2rem;
-    }
-  }
-}
+// footer#site {
+//   background-color: #8c1932;
+//   background: linear-gradient(45deg, #1e3264 0%, #8c1932 100%);
+//   small {
+//     div {
+//       text-align: center;
+//       line-height: 1.2rem;
+//     }
+//   }
+// }
 
-dt.podcast::after {
-  content : " 🎧";
-}
+// dt.podcast::after {
+//   content : " 🎧";
+// }
 
-dt.conference::after {
-  content : " 🗣";
-}
+// dt.conference::after {
+//   content : " 🗣";
+// }
 
-dd {
-  padding-bottom: 0.8rem;
-}
-
+// dd {
+//   padding-bottom: 0.8rem;
+// }
 
 footer {
-  [role="button"] {
-    --background-color: white;
-    --border-color: white;
+  font-size: 0.6rem;
+}
+
+
+// footer {
+//   [role="button"] {
+//     --background-color: white;
+//     --border-color: white;
     
-    &:hover,
-    &:active,
-    &:focus {
-      --background-color: silver;
-      --border-color: silver;
-    }
-  }
-}
+//     &:hover,
+//     &:active,
+//     &:focus {
+//       --background-color: silver;
+//       --border-color: silver;
+//     }
+//   }
+// }
 
-.current {
-  color: #8c1932;
-}
+// .current {
+//   color: #8c1932;
+// }
 
-.clip-circle {
-  clip-path: circle(50% at center);
-}
+// .clip-circle {
+//   clip-path: circle(50% at center);
+// }
