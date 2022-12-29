@@ -28,13 +28,15 @@ social:
     - https://www.linkedin.com/in/mfloryan/
     - https://github.com/mfloryan
     - https://keybase.io/mfloryan
+    - https://mstdn.social/@mfloryan
 social_links:
   twitter: mfloryan
-  github:  mfloryan
+  github: mfloryan
   facebook: mfloryan
   instagram: mf.se
   linkedin: mfloryan
   keybase: mfloryan
+  mastodon: "@mfloryan@mstdn.social"
 
 locale: en_GB
 lang: en_GB
