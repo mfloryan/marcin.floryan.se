@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+{%- include head.html -%}
+<body>
+  <header><a href="/">Marcin Floryan</a></header>
+  <main>
+    <article>
+      <header>
+        <h1>{{ page.title }}</h1>
+        <time datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}">{{ page.date | date: '%A, %e %B %Y' }}</time>
+        <span> {{ page.author }}</span>
+      </header>
+      {{ content }}
+      <footer>
+        Tags: {{ page.tags }}
+      </footer>
+    </article>
+  </main>
+  <footer>
+    {%- include footer.html -%}
+  </footer>
+</body>
+</html>
