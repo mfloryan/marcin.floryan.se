@@ -10,7 +10,7 @@ title: Quotes collection
 <blockquote>
   {{ item.quote }}
   <footer>
-    <cite>{{ item.author }}</cite>
+    <cite>{{ item.author | markdownify | remove: '<p>' | remove: '</p>' }}</cite>
   </footer>
 </blockquote>
 
