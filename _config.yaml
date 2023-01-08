@@ -19,6 +19,7 @@ future: true
 collections:
   events:
     output: true
+    permalink: /events/:year/:slug
   posts:
     permalink: /blog/:year/:month/:slug
 
