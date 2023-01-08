@@ -1,2 +1,4 @@
+- name: Blog
+  link: /blog/
 - name: Quotes
-  link: /quotes.html
+  link: /quotes
