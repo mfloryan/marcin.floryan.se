@@ -4,7 +4,7 @@ title: Marcin Floryan - 404 - page not found
 ---
 # 404: Page not found
 
-Personal blog of **Marcin Floryan** is currently out of order (as of *Oct 2022*).
+Personal blog of **Marcin Floryan** is currently during migration (as of *Jan 2023*).
 
 The link that brough you here is not working but don't consider this a permanent state. Things will be back. Eventually.
 
