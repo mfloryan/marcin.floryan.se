@@ -46,6 +46,31 @@ body > footer {
   font-size: 0.6rem;
 }
 
+figure > figcaption {
+  font-size: calc(var(--font-size) * 0.8);
+}
+
+figure {
+  border: 1px solid var(--card-border-color);
+  border-radius: var(--border-radius);
+  padding: 0.5em;
+  display: inline-block;
+}
+
+nav {
+  padding-left: 2em;
+  padding-right: 2em;
+  background-color: #8c1932;
+  background: linear-gradient(45deg, #1e3264 0%, #8c1932 100%);
+  a {
+    color: white;
+  }
+  a.current {
+    text-decoration:overline;
+    text-decoration-style: dotted;
+  }
+}
+
 
 // footer {
 //   [role="button"] {

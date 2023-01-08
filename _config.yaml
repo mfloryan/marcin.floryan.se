@@ -46,3 +46,7 @@ timezone: Europe/Stockholm
 exclude: ['*.sh', '_tools/', 'README.md', 'marcin.floryan.pl/']
 plugins:
   - jekyll-seo-tag
+  - jekyll-figure
+
+jekyll-figure:
+  paragraphs: false

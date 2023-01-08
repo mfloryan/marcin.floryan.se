@@ -15,21 +15,25 @@ With the experience last time around I decided this time to get the [Halfords](h
 
 Today, with renewed energy and determination not to let Citroen lure me into their trap, equipped with a camera to explore the headlight design, I took up the challenge and succeeded. In case you also wonder **how to change headlight bulb in Citroen C4** here are some hopefully helpful pictures and quick instructions.
 
-[![Left headlight bulb with wires]({{ site.baseurl }}/assets/images/2010/02/citroen-c4-left-headlight-bulb-with-wires-297x300.jpg "Left headlight bulb with wires")]({{ site.baseurl }}/assets/images/2010/02/citroen-c4-left-headlight-bulb-with-wires.jpg)
+{% figure caption: "Left headlight bulb with wires" %}
+[![Left headlight bulb with wires](/assets/images/2010/02/citroen-c4-left-headlight-bulb-with-wires-297x300.jpg "Left headlight bulb with wires")](/assets/images/2010/02/citroen-c4-left-headlight-bulb-with-wires.jpg)
+{% endfigure %}
 
-[![Headlight bulb mounting spring]({{ site.baseurl }}/assets/images/2010/02/citroen-c4-left-headlight-bulb-mounting-spring-251x300.jpg "Headlight bulb mounting spring")]({{ site.baseurl }}/assets/images/2010/02/citroen-c4-left-headlight-bulb-mounting-spring.jpg)
+{% figure caption: "Headlight bulb mounting spring" %}
+[![Headlight bulb mounting spring](/assets/images/2010/02/citroen-c4-left-headlight-bulb-mounting-spring-251x300.jpg "Headlight bulb mounting spring")](/assets/images/2010/02/citroen-c4-left-headlight-bulb-mounting-spring.jpg)
+{% endfigure %}
 
-Here is the bulb with the wires attached. Taking them off took some time, the key is to hold the bulb mount with one finger while delicately pulling the wires out. On the right, with the wires off.
+Here is the bulb with the wires attached. Taking them off took some time, the key is to hold the bulb mount with one finger while delicately pulling the wires out. Next picture, with the wires off.
 
-[![Bulb replacement instructions]({{ site.baseurl }}/assets/images/2010/02/citroen-c4-replace-headlight-bulb-instructions-251x300.jpg "Bulb replacement instructions")]({{ site.baseurl }}/assets/images/2010/02/citroen-c4-replace-headlight-bulb-instructions.jpg)
+{% figure caption: "Bulb replacement instructions" %}
+[![Bulb replacement instructions](/assets/images/2010/02/citroen-c4-replace-headlight-bulb-instructions-251x300.jpg "Bulb replacement instructions")](/assets/images/2010/02/citroen-c4-replace-headlight-bulb-instructions.jpg)
+{% endfigure %}
 
 The easiest way I found to take the bulb out was to take the mounting spring in the following order:
 
-1.) Slide the bottom right arm of the spring out to the left
-
-2.) Take the top of the spring out (to the right) from the latch
-
-3.) Delicately release the spring, keep it hinged at the bottom left
+1. Slide the bottom right arm of the spring out to the left
+2. Take the top of the spring out (to the right) from the latch
+3. Delicately release the spring, keep it hinged at the bottom left
 
 Make sure you don't drop the spring or the bulb.
 
@@ -37,4 +41,6 @@ I found inserting the new bulb is easier when you look at the front through the 
 
 It took less then 20 minutes in total and so I was well impressed with myself. Enough to say there is no mention of any of the above in the car manual.
 
-[![The new bulb replaced]({{ site.baseurl }}/assets/images/2010/02/citroen-c4-left-headlight-bulb-replaced-289x300.jpg "The new bulb replaced")]({{ site.baseurl }}/assets/images/2010/02/citroen-c4-left-headlight-bulb-replaced.jpg)
+{% figure caption: "The new bulb replaced" %}
+[![The new bulb replaced](/assets/images/2010/02/citroen-c4-left-headlight-bulb-replaced-289x300.jpg "The new bulb replaced")](/assets/images/2010/02/citroen-c4-left-headlight-bulb-replaced.jpg)
+{% endfigure %}
