@@ -1,4 +1,7 @@
 source 'https://rubygems.org/'
 
-gem 'jekyll-seo-tag'
-gem 'jekyll-figure'
+group :jekyll_plugins do
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-figure'
+  gem 'jekyll-last-modified-at'
+end

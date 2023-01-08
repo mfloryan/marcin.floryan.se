@@ -48,6 +48,7 @@ exclude: ['*.sh', '_tools/', 'README.md', 'marcin.floryan.pl/']
 plugins:
   - jekyll-seo-tag
   - jekyll-figure
+  - jekyll-last-modified-at
 
 jekyll-figure:
   paragraphs: false
