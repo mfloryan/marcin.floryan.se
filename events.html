@@ -1,24 +1,31 @@
 ---
 layout: default
-title: Sharing
+title: Public appearences
+permalink: /events/
 ---
-<h1>Sharing</h1>
-I like sharing my experiences and ideas with others.
+<h1>Events</h1>
 
-<dl>
+<p>I like sharing my experiences and ideas with others. Below you will find a collection of my public appearences - talks, podcasts, interviews...</p>
+
+<dl class="events">
 {% for event in site.events reversed %}
   {% assign content = event.content | strip_newlines %}
   <dt class="{{ event.type }}">{{ event.date | date_to_string }}</dt>
   <dd>
-    {{ event.name }}: <a href="{{event.link}}" target="_blank"><b>{{ event.title }}</b></a>
+    {{ event.name }}: 
+    {% if content != empty %}<a href="{{event.url}}"><b>{{ event.title }}</b></a>
+    {% elsif event.link %} <a href="{{event.link}}" target="_blank"><b>{{ event.title }}</b></a>
+    {% else %} <b>{{ event.title }}</b>
+    {% endif %}
+
     {% if event.links %}
     {% for link in event.links %}
     <a href="{{link.link}}" target="_blank" class="{{link.type}}">{{link.type}}</a>
     {% endfor %}
     {% endif %}
 
-    {% unless content == empty %} <a href="{{ event.url }}">{{ event.type }}</a> {% endunless %}
-  </dd>  
-  
+    <!-- {% unless content == empty %} <a href="{{ event.url }}">{{ event.type }}</a> {% endunless %} -->
+  </dd>
+
 {% endfor %}
 </dl>
