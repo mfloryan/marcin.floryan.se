@@ -1,8 +1,9 @@
 ---
 output: false
 type: podcast
+lang: 🇵🇱
 name: Menedżer Plus
-title: "MP 117: Nie ma modelu Spotify. Jest kultura! [🇵🇱]"
+title: "MP 117: Nie ma modelu Spotify. Jest kultura!"
 links:
   - type: episode
     link: https://mariuszchrapko.com/nie-ma-modelu-spotify-jest-kultura/

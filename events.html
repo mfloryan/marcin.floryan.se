@@ -12,10 +12,15 @@ permalink: /events/
   {% assign content = event.content | strip_newlines %}
   <dt class="{{ event.type }}">{{ event.date | date_to_string }}</dt>
   <dd>
-    {{ event.name }}: 
-    {% if content != empty %}<a href="{{event.url}}"><b>{{ event.title }}</b></a>
-    {% elsif event.link %} <a href="{{event.link}}" target="_blank"><b>{{ event.title }}</b></a>
-    {% else %} <b>{{ event.title }}</b>
+    {% if event.lang %}
+      {% capture title %} {{event.title}} [{{event.lang}}] {% endcapture %}
+    {% else %}
+      {% capture title %} {{event.title}} {% endcapture %}
+    {% endif %}
+    {{ event.name }}:
+    {% if content != empty %}<a href="{{event.url}}"><b>{{ title }}</b></a>
+    {% elsif event.link %} <a href="{{event.link}}" target="_blank"><b>{{ title }}</b></a>
+    {% else %} <b>{{ title }}</b>
     {% endif %}
 
     {% if event.links %}

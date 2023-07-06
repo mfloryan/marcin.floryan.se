@@ -1,6 +1,7 @@
 ---
 layout: default
 type: presentation
+lang: 🇵🇱
 title: "CIONET Tribes & Spotify"
 name: CIONET
 ---
