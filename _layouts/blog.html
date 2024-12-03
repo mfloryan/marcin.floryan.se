@@ -12,7 +12,10 @@
       </header>
       {{ content }}
       <footer>
-        Tags: {{ page.tags }}
+        Tags: 
+        {% for tag in page.tags %}
+        <code>{{ tag }}</code>
+        {% endfor %}
       </footer>
     </article>
   </main>
