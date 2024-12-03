@@ -1,2 +1,2 @@
-rm -R marcin.floryan.pl/
+rm -R site/marcin.floryan.pl/
 docker compose run build
