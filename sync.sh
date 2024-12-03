@@ -1,1 +1,1 @@
-rsync --recursive --info=progress2,name1 --checksum --compress --delete-after site/marcin.floryan.pl/ zorn.mm.waw.pl:/srv/www/sites/floryan.pl/marcin/
+rsync --recursive --info=progress2,name1 --checksum --compress --delete-after marcin.floryan.se/ zorn.mm.waw.pl:/srv/www/sites/floryan.pl/marcin/

@@ -18,7 +18,8 @@ services:
     image: mf-site-jekyll
     volumes:
       - ./site:/site
+      - ./marcin.floryan.se:/marcin.floryan.se
     command: >
-      bundle exec jekyll build --verbose --destination marcin.floryan.pl/
+      bundle exec jekyll build --verbose --destination /marcin.floryan.se/
     environment:
       - JEKYLL_ENV=production
