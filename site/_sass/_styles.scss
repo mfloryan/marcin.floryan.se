@@ -10,19 +10,13 @@
   )
 );
 
-footer {
-  background: var(--pico-color-zinc-200);
-  font-size: 0.6rem;
 
-  a {
-    color: white;
-  }
-}
 
 :root {
   --pico-spacing: 1.6rem;
   --pico-typography-spacing-vertical: 2rem;
   --pico-font-family: "Spectral", "Georgia", "Cambria", "Palatino Linotype", "Book Antiqua", "Times New Roman", serif;
+  --logo-color: white;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -37,10 +31,48 @@ h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
+main.container {
+  min-height: 80vh;
+}
+
+nav {
+  padding-left: 2vw;
+  padding-right: 2vw;
+  background-color:  var(--pico-color-zinc-300);
+  font-family: "Lexend", var(--pico-font-family-sans-serif);
+  a {
+    color: white;
+    font-weight: 400;
+    font-size: 0.9rem;
+  }
+
+  a.current {
+    color: var(--pico-color-zinc-600);
+    font-weight: 900;
+    border: none;
+  }
+
+  a.current:hover {
+    text-decoration: none;
+  }
+
+  strong {
+    font-weight: 800;
+    color: var(--logo-color);
+  }
+
+}
 
 body > footer {
   --pico-block-spacing-vertical: 6rem;
   padding-bottom: 2rem;
+  font-family: var(--pico-font-family-sans-serif);
+  background: var(--pico-color-zinc-200);
+  font-size: 0.6rem;
+
+  a {
+    color: white;
+  }
 }
 
 a {
@@ -56,7 +88,7 @@ a:hover {
   hgroup {
     h1 {
       --pico-font-size: 3rem;
-      --pico-color: var(--pico-color-zinc-750);
+      --pico-color: var(--logo-color);
     }
   }
 
