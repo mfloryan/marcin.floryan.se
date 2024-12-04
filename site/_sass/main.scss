@@ -1,19 +1,31 @@
+@use '_variables';
+@use "sass:map";
+
 @use "pico" with (
-  $enable-semantic-container: true,
-  $enable-classes: true,
+  $enable-semantic-container: false,
+  $enable-responsive-spacings: true,
   $modules: (
+    "forms/basics": false,
+    "forms/checkbox-radio-switch": false,
     "forms/input-color": false,
     "forms/input-date": false,
     "forms/input-file": false,
     "forms/input-range": false,
-    "forms/input-search": false,
+    "forms/input-search": false,s
     "components/accordion": false,
     "components/dropdown": false,
     "components/loading": false,
     "components/progress": false
   ),
-  $theme-color: "slate"
+  $theme-color: "slate",
+  $breakpoints:
+  (
+    xxl: false
+  )
 );
+
+
+@use '_styles';
 
 // // $primary-hue: 223;
 // // // $primary-600: hsl(223, 54%, 25%);

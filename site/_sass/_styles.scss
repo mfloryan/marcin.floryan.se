@@ -1,0 +1,67 @@
+@use "pico/colors/utilities" with (
+  $palette: (
+    "color-families": (
+      zinc,
+      pink
+    ),
+  ),
+  $utilities: (
+    "background-colors": false,
+  )
+);
+
+footer {
+  background: var(--pico-color-zinc-200);
+  font-size: 0.6rem;
+
+  a {
+    color: white;
+  }
+}
+
+:root {
+  --pico-spacing: 1.6rem;
+  --pico-typography-spacing-vertical: 2rem;
+  --pico-font-family: "Spectral", "Georgia", "Cambria", "Palatino Linotype", "Book Antiqua", "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Lexend", var(--pico-font-family-sans-serif);
+}
+
+h1 {
+  font-weight: 800;
+}
+
+h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+
+body > footer {
+  --pico-block-spacing-vertical: 6rem;
+  padding-bottom: 2rem;
+}
+
+a {
+  transition-duration: 0.5s;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.front-page {
+  hgroup {
+    h1 {
+      --pico-font-size: 3rem;
+      --pico-color: var(--pico-color-zinc-750);
+    }
+  }
+
+}
+
+header.front-page {
+  background: var(--pico-color-zinc-200);
+}
