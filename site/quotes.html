@@ -1,18 +1,15 @@
 ---
 layout: default
-title: Quotes collection
+title: Quotes
 ---
-<h1>Quotes</h1>
-
 <section>Collection of quotes that I found interesting or inspiring.</section>
 
 {% for item in site.data.quotes %}
 <blockquote>
   {{ item.quote }}
   <footer>
-    <cite>{{ item.author | markdownify | remove: '<p>' | remove: '</p>' }}</cite>
+    <cite>&mdash; {{ item.author | markdownify | remove: '<p>' | remove: '</p>' }}</cite>
   </footer>
 </blockquote>
 
 {% endfor %}
-</article>
