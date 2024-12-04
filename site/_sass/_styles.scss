@@ -1,7 +1,6 @@
 @use "pico/colors/utilities" with (
   $palette: (
     "color-families": (
-      zinc,
       pink
     ),
   ),
@@ -9,8 +8,6 @@
     "background-colors": false,
   )
 );
-
-
 
 :root {
   --pico-spacing: 1.6rem;
@@ -38,7 +35,7 @@ main.container {
 nav {
   padding-left: 2vw;
   padding-right: 2vw;
-  background-color:  var(--pico-color-zinc-300);
+  background-color:  var(--pico-primary-background);
   font-family: "Lexend", var(--pico-font-family-sans-serif);
   a {
     color: white;
@@ -47,7 +44,7 @@ nav {
   }
 
   a.current {
-    color: var(--pico-color-zinc-600);
+    color: var(--pico-color-pink-800);
     font-weight: 900;
     border: none;
   }
@@ -67,11 +64,12 @@ body > footer {
   --pico-block-spacing-vertical: 6rem;
   padding-bottom: 2rem;
   font-family: var(--pico-font-family-sans-serif);
-  background: var(--pico-color-zinc-200);
+  background: var(--pico-primary-background);
   font-size: 0.6rem;
+  color: var(--pico-color-pink-800);
 
   a {
-    color: white;
+    color: var(--pico-color-pink-200);
   }
 }
 
@@ -95,7 +93,7 @@ a:hover {
 }
 
 header.front-page {
-  background: var(--pico-color-zinc-200);
+  background: var(--pico-primary-background);
 }
 
 .right {
