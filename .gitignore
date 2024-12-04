@@ -1,9 +1,13 @@
 # Editor configuration
 .vscode/
 
+# Node.JS modules
+node_modules/
+
 # Cache
 .jekyll-cache/
 
 # Generated content
 _site/
 marcin.floryan.se/
+**/css/main.css*

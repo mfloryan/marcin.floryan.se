@@ -12,20 +12,16 @@ RUN apt-get update && apt-get install -y \
 # Update Node.js and npm
 RUN npm install -g n && n stable
 RUN npm install -g yarn
+RUN npm install -g sass
 
 # Set working directory
 WORKDIR /site
 
 # Copy package file for Ruby and Yarn
 COPY site/Gemfile* ./
-COPY site/package.json ./
-COPY site/yarn.lock ./
 
 # Install Ruby dependencies
 RUN bundle install
-
-# Install Node.js dependencies
-RUN yarn install
 
 # Expose Jekyll default port
 EXPOSE 4000
