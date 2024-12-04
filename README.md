@@ -25,13 +25,13 @@ Decided against hand-crafting my won CSS and instead lean on existing framework.
 
 I have decided to customise the Pico CSS budle using SASS. Jekyll support SASS out of the box through the bundled `jekyll-sass-converter` plugin [^1]. Unfortunately that plugin has last been updated in December 2022. It uses `sass-embedded` gem at 1.75 while the latest version is `1.81` in December 2024. As such it does not support the latest syntax and an alternative tool needs to be used instead. I opted for a node module.
 
-[^1]: https://jekyllrb.com/docs/configuration/sass/
+[^1]: [Jekyll Sass configuration page](https://jekyllrb.com/docs/configuration/sass/)
 
 ## Workflow
 
 ```sh
 ./serve.sh
-node_modules/sass/sass.js --watch -q site/_sass/main.scss site/assets/css/main.css
+node_modules/sass/sass.js --watch --silence-deprecation=mixed-decls site/_sass/main.scss site/assets/css/main.css
 ```
 
 ## Useful pointers
