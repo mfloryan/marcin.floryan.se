@@ -16,7 +16,7 @@
     "components/loading": false,
     "components/progress": false
   ),
-  $theme-color: "pink",
+  $theme-color: "slate",
   $breakpoints:
   (
     xxl: false
@@ -28,9 +28,11 @@
 p.flags {
 
   padding-left: 16rem;
+  padding-top: 0.5rem;
 
   @media (max-width: map.get(map.get(pico.$breakpoints, "sm"), "breakpoint")) {
     padding-left: 4rem;  
+
   }
 }
 
