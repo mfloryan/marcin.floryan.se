@@ -1,7 +1,7 @@
 @use "pico/colors/utilities" with (
   $palette: (
     "color-families": (
-      pink
+      slate
     ),
   ),
   $utilities: (
@@ -17,7 +17,7 @@
 }
 
 blockquote {
-  --pico-blockquote-border-color: var(--pico-color-pink-100);
+  --pico-blockquote-border-color: var(--pico-color-slate-100);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -48,7 +48,7 @@ nav {
   }
 
   a.current {
-    color: var(--pico-color-pink-800);
+    color: var(--pico-color-slate-800);
     font-weight: 900;
     border: none;
   }
@@ -70,20 +70,21 @@ body > footer {
   font-family: var(--pico-font-family-sans-serif);
   background: var(--pico-primary-background);
   font-size: 0.6rem;
-  color: var(--pico-color-pink-800);
+  color: var(--pico-color-slate-800);
 
   a {
-    color: var(--pico-color-pink-200);
+    color: var(--pico-color-slate-200);
   }
 }
 
 a {
-  transition-duration: 0.5s;
+  transition-duration: 0.3s;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+  background-color: var(--pico-color-slate-100);
 }
 
 .front-page {
@@ -94,6 +95,10 @@ a:hover {
     }
   }
 
+}
+
+i.fa-spotify {
+  color: #1ED760
 }
 
 header.front-page {
