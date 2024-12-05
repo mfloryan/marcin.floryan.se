@@ -9,7 +9,7 @@ category: personal
 tags: [climate change, confirmation bias, vegetarian]
 ---
 
-I don’t eat meat. To be precise, I _mostly_ don’t eat meat. I explicitly and deliberately choose to not eat meat because I _believe_ that reducing the amount of meat, mostly beef, we consume, has a positive impact on climate change. I believe that choosing a more plant-based diet means reducing the amount of greenhouse gases that get emitted to the environment which in turn helps to limit negative effects of global heating.
+I don’t eat meat 🥩. To be precise, I _mostly_ don’t eat meat. I explicitly and deliberately choose to not eat meat because I _believe_ that reducing the amount of meat, mostly beef, we consume, has a positive impact on climate change. I believe that choosing a more plant-based diet means reducing the amount of greenhouse gases that get emitted to the environment which in turn helps to limit negative effects of global heating.
 
 ## Rich information diet
 
@@ -50,12 +50,12 @@ I looked for some more sources and have also found the following statements:
 My conclusion is that Joe Rogan is right on one account: animal agriculture is not the number one contributor to global warming. However, I have found no way to substantiate the claim that what we eat doesn’t matter for greenhouse gases emissions.
 For now, I am going to remain with my personal belief that what we eat matters for the environment and will continue saving the planet one plant-based meal at a time.
 
-I hope this story serves as a small example of the value of validating statements you hear “out there” especially when they relate directly to your own held beliefs. I am not naive though, researching this one claim alone took a significant amount of time. It’s practically impossible to “go to the source” for every claim we face in our daily lives. We neither have the time nor, very often, the knowledge to do so.
-This is why it is essential to find sources we trust and also, every now and then, to be curious about our own convictions and put them to the test.
+I hope this story serves as a small example of the value of validating statements you hear “out there” especially when they relate directly to your own held beliefs and come from "high-profile" positions. I am not naive though, researching this one claim alone took a significant amount of time. It’s practically impossible to “go to the source” for every claim we face in our daily lives. We neither have the time nor, very often, the knowledge to do so.
+This is why it is essential to find sources we trust and also, every now and then, to be curious about our own convictions and put them to a test.
 
-Engaging our brains and remaining critical to what we see and read is an essential skill today.
+Engaging our brains and remaining critical to what we see and read is an essential skill today. 🧠
 
-When was the last time you looked closer at one of your own beliefs?
+🧐 When was the last time you looked closer at one of your own beliefs?
 
 ## References
 
