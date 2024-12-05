@@ -10,11 +10,11 @@
         <h1>{{ page.title }}</h1>
         <p>{{ page.subtitle }}</p>
         </hgroup>
-        <time datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}">{{ page.date | date: '%A, %e %B %Y' }}</time>
-        <span>- {{ page.author }}</span>
       </header>
       {{ content }}
       <footer>
+        <small>Published on <time datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}">{{ page.date | date: '%A, %e %B %Y' }}</time> by <span>{{ page.author }}</span></small>
+        <br>
         Tags: 
         {% for tag in page.tags %}
         <code>{{ tag }}</code>
