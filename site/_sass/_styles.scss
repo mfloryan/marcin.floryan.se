@@ -108,3 +108,13 @@ header.front-page {
 .right {
   text-align: right;
 }
+
+.flags {
+  text-align: right;
+  position: relative;
+  top: calc(var(--pico-block-spacing-vertical)* -1);
+}
+
+img.img-speaking {
+  border-radius: 3rem;
+}
