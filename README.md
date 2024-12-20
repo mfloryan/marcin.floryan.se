@@ -44,3 +44,7 @@ node_modules/sass/sass.js --watch --silence-deprecation=mixed-decls site/_sass/m
 ### Other Jekyll sites
 
 - [home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+
+## Inspiration
+
+- [https://www.itaytalgam.com/](https://www.itaytalgam.com/)
