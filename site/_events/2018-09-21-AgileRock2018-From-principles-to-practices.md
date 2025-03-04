@@ -2,6 +2,7 @@
 output: false
 type: conference
 name: Agile Rock 2018
+location: Kyiv 🇺🇦
 title: From Principles to Practices
 links:
   - type: youtube
