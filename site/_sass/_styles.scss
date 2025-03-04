@@ -94,7 +94,6 @@ a:hover {
       --pico-color: var(--logo-color);
     }
   }
-
 }
 
 i.fa-spotify {
@@ -117,4 +116,23 @@ header.front-page {
 
 img.img-speaking {
   border-radius: 3rem;
+}
+
+article {
+  dl {
+    dd {
+      margin-bottom: 2rem;
+    }
+    dt {
+      font-weight: bold;
+      font-size: 0.9rem;
+      background-color: var(--pico-color-slate-100);
+    }
+  }
+
+  ol, ul {
+    li {
+      margin-bottom: 0;
+    }
+  }
 }
