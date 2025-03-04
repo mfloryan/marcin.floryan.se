@@ -14,7 +14,7 @@ permalink: /events/
     {% assign year = current_year %}
   {% endif %}
   {% assign content = event.content | strip_newlines %}
-  <dt class="{{ event.type }}">{{ event.date | date_to_string }}</dt>
+  <dt class="{{ event.type }}">{{ event.date | date_to_string }}{% if event.location %}, {{event.location}}{% endif %} </dt>
   <dd>
     {% if event.lang %}
       {% capture title %} {{event.title}} [{{event.lang}}] {% endcapture %}
