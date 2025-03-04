@@ -6,7 +6,13 @@ permalink: /events/
 <p>I like sharing my experiences and ideas with others. Below you will find a collection of my public appearences - talks, podcasts, interviews...</p>
 
 <dl class="events">
+{% assign year = 0 %}
 {% for event in site.events reversed %}
+  {% assign current_year = event.date | date: "%Y" %}
+  {% if current_year != year %}
+    <h2>{{ current_year }}</h2>
+    {% assign year = current_year %}
+  {% endif %}
   {% assign content = event.content | strip_newlines %}
   <dt class="{{ event.type }}">{{ event.date | date_to_string }}</dt>
   <dd>
