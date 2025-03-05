@@ -136,3 +136,27 @@ article {
     }
   }
 }
+
+dl.events {
+
+  @mixin event-icon($icon, $font-family: "Font Awesome 6 Brands") {
+    &::before {
+      content: $icon;
+      font-family: $font-family;
+      font-weight: 600;
+      margin: 0 0.5em 0 0.5em;
+    }
+    span {
+      display: none; // Hides text while keeping structure
+    }
+    display: inline-flex;
+    align-items: center; // Keeps vertical alignment consistent
+  }
+
+  // Specific event types
+  a.event-link-spotify { @include event-icon("\f1bc"); }
+  a.event-link-youtube { @include event-icon("\f167"); }
+  a.event-link-linkedin { @include event-icon("\f08c"); }
+  a.event-link-web { @include event-icon("\f0c1", "Font Awesome 6 Free"); }
+  a.event-link-episode { @include event-icon("\f2ce", "Font Awesome 6 Free"); }
+}

@@ -29,7 +29,7 @@ permalink: /events/
 
     {% if event.links %}
     {% for link in event.links %}
-    <a href="{{link.link}}" target="_blank" class="{{link.type}}">{{link.type}}</a>
+    <a href="{{link.link}}" target="_blank" class="event-link-{{link.type}}"><span>{{link.type}}</span></a>
     {% endfor %}
     {% endif %}
 
