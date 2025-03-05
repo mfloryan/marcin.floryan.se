@@ -21,7 +21,7 @@ permalink: /events/
     {% else %}
       {% capture title %} {{event.title}} {% endcapture %}
     {% endif %}
-    {{ event.name }}:
+    {{ event.name }}<br>
     {% if content != empty %}<a href="{{event.url}}"><b>{{ title }}</b></a>
     {% elsif event.link %} <a href="{{event.link}}" target="_blank"><b>{{ title }}</b></a>
     {% else %} <b>{{ title }}</b>
