@@ -12,9 +12,7 @@ links:
  - type: linkedin
    link: https://www.linkedin.com/feed/update/urn:li:activity:7081176689619197952/
 ---
-# Dept Tech Day
-
-![Event info](/assets/images/2022/02/dept-techday-spotify.png)
+# RE_cord
 
 Jak osiąga się mistrzostwo, autonomię i jednocześnie realizuje cele w Spotify?
 Co nas motywuje i co może dać nam organizacja oraz lider, a o co możemy zadbać my sami?
