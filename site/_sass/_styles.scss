@@ -157,6 +157,9 @@ dl.events {
   a.event-link-spotify { @include event-icon("\f1bc"); }
   a.event-link-youtube { @include event-icon("\f167"); }
   a.event-link-linkedin { @include event-icon("\f08c"); }
+  a.event-link-vimeo { @include event-icon("\f40a"); }
+  a.event-link-speakerdeck { @include event-icon("\f83c"); }
+  a.event-link-slideshare { @include event-icon("\f1e7"); }
   a.event-link-web { @include event-icon("\f0c1", "Font Awesome 6 Free"); }
   a.event-link-episode { @include event-icon("\f2ce", "Font Awesome 6 Free"); }
 }
