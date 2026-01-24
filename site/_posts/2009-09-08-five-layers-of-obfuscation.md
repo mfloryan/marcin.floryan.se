@@ -24,6 +24,6 @@ So I dig deeper.
 
 At last, the final level in the hierarchy, I hit the rock hard bottom and in front of my very eyes a monstrosity of a Stored Procedure unveils. It's a few hundred lines long, it makes calls to several other stored procedures, the missing HTML is lurking around here all-right and some data got hard-coded as it clearly didn't fit the table design.
 
-I wonder, is this the structure that the enterprise architects&nbsp;envisaged? Was it an evil DBA insisting to control all the data? Was it a developer more at home with T-sql than .Net?
+I wonder, is this the structure that the enterprise architects envisaged? Was it an evil DBA insisting to control all the data? Was it a developer more at home with T-sql than .Net?
 
 I don't know. What I do know, is that it's not an N-tier architecture. It's five levels of obfuscation that could easily put off anyone trying to make any sense of the design.

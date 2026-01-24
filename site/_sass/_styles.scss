@@ -114,6 +114,10 @@ header.front-page {
   top: calc(var(--pico-block-spacing-vertical)* -1);
 }
 
+img.left {
+  float:left;
+}
+
 img.img-speaking {
   border-radius: 3rem;
 }
