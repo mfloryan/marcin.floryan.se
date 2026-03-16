@@ -49,6 +49,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-figure
   - jekyll-last-modified-at
+  - jekyll-redirect-from
 
 jekyll-figure:
   paragraphs: false

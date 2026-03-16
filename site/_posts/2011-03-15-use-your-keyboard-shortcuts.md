@@ -5,6 +5,9 @@ date: 2011-03-15 11:35:52.000000000 +00:00
 author: Marcin
 type: post
 tags: [IDE, productivity, software development]
+redirect_from:
+  - /blog/2011/03/use-your-keyboard-shorcuts/
+  - /blog/2011/03/15/use-your-keyboard-shorcuts/
 ---
 
 I can still hear J.B. audaciously whispering "_Shift+F10_"whenever I would reach for the mouse to run a suite of tests in IntelliJ. Although we [worked together](http://marcin.floryan.pl/blog/2010/11/pairing-with-jbrains "Pairing with @jbrains") a while ago the sound of his voice still reverberates in my head and has since prompted me to make a step improvement in the use of keyboard shortcuts in the IDEs.
