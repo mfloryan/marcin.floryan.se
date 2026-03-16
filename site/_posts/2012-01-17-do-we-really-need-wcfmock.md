@@ -43,7 +43,7 @@ We replaced a reference to <tt>OperationContext</tt> with a reference to <tt>ope
 public void ShouldGetProductsFeed()
 {
     {
-        var respository = new InMemoryProductRepository(
+        var repository = new InMemoryProductRepository(
                 new List<product>{
             new Product { Id = "1", Category = "foo", Name = "Foo1", UnitPrice = 1 },
             new Product { Id = "2", Category = "bar", Name = "bar2", UnitPrice = 2 }

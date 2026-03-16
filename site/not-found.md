@@ -6,7 +6,7 @@ title: Marcin Floryan - 404 - page not found
 
 Personal blog of **Marcin Floryan** is currently during migration (as of *Jan 2023*).
 
-The link that brough you here is not working but don't consider this a permanent state. Things will be back. Eventually.
+The link that brought you here is not working but don't consider this a permanent state. Things will be back. Eventually.
 
 In the meantime, enjoy a cat gif courtesy of [cat as a service](https://cataas.com/){:target="_blank" title="Cat as a service website"}
 
