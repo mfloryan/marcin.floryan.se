@@ -1,7 +1,9 @@
 title: Marcin Floryan
+url: "https://marcin.floryan.eu"
 description: >
-  Marcin Floryan: Working with psychological safety, technology and complexity 
-  to understand and influence systems of work. http://pronoun.is/he; agile descaler @Spotify
+  Marcin Floryan: Building organizations where purpose drives performance.
+  Leadership, psychological safety, complexity, and organizational design.
+  Currently VP Software @Marshall Group. http://pronoun.is/he
 tagline: Marcin's personal wesbite
 keywords:
   - Marcin Floryan
@@ -13,7 +15,7 @@ keywords:
 author:
   name: Marcin Floryan
   twitter: mfloryan
-  url: https://marcin.floryan.pl/
+  url: https://marcin.floryan.eu/
 
 future: true
 collections:
