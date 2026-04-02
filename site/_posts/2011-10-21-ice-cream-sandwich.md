@@ -6,8 +6,7 @@ author: Marcin
 type: post
 tags: [Argyris, feedback, LHRH]
 redirect_from:
-  - /blog/2011/10/ice-cream-sandwitch/
-  - /blog/2011/10/21/ice-cream-sandwitch/
+  - /blog/2011/10/ice-cream-sandwitch
 ---
 
 ![](/assets/images/2011/10/IceCreamSandwich-300x190.png "Ice Cream Sandwich")No, it's not going to be about the [next version](http://thisismynext.com/2011/10/18/exclusive-matias-duarte-ice-cream-sandwich-galaxy-nexus/) of the Android operating system.
