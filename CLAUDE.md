@@ -53,4 +53,6 @@ Uses [Pico CSS](https://picocss.com/) — semantic HTML-first framework that req
 
 - New blog post: create `site/_posts/YYYY-MM-DD-title.md` with YAML frontmatter
 - New event: create `site/_events/YYYY-MM-DD-title.md`
+- Permalinks must never end with a trailing `/`
+- Event pages with content use `layout: event`; listing-only entries use `output: false` with no layout
 - No local Ruby or Node required — everything runs in Docker
