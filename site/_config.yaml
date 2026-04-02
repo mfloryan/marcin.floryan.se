@@ -42,7 +42,7 @@ social_links:
   mastodon: "@mfloryan@mstdn.social"
 
 locale: en_GB
-lang: en_GB
+lang: en-GB
 timezone: Europe/Stockholm
 exclude: ['*.sh', '_tools/', 'README.md', '_sass']
 plugins:
