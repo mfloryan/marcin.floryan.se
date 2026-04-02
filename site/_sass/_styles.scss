@@ -148,7 +148,7 @@ dl.events {
       content: $icon;
       font-family: $font-family;
       font-weight: 400;
-      margin: 0 0.5em 0 0.5em;
+      margin: 0 0.2em;
     }
     span {
       display: none; // Hides text while keeping structure
@@ -166,4 +166,17 @@ dl.events {
   a.event-link-slideshare { @include event-icon("\f1e7"); }
   a.event-link-web { @include event-icon("\f0c1", "Font Awesome 6 Free"); }
   a.event-link-episode { @include event-icon("\f2ce", "Font Awesome 6 Free"); }
+
+  a[class^="event-link-"] {
+    padding: 0.25em 0.45em;
+    border-radius: 0.4em;
+    transition: background-color 0.2s, color 0.2s, transform 0.15s;
+
+    &:hover {
+      background-color: var(--pico-primary-background);
+      color: white;
+      text-decoration: none;
+      transform: scale(1.2);
+    }
+  }
 }
