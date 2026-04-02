@@ -45,6 +45,10 @@ Uses [Pico CSS](https://picocss.com/) — semantic HTML-first framework that req
 
 `site/_config.yaml` controls collections, plugins, permalink structure, and site metadata. Key plugins: `jekyll-seo-tag`, `jekyll-redirect-from`, `jekyll-last-modified-at`, `jekyll-figure`.
 
+## Planned Work
+
+- **Responsive images** — images across the site should use `srcset`/`sizes` for responsive delivery. Currently images use a `{: style="max-width: ..."}` workaround where sizing is needed. When implementing, replace these inline styles with a proper responsive image solution (Jekyll plugin or custom Liquid include).
+
 ## Adding Content
 
 - New blog post: create `site/_posts/YYYY-MM-DD-title.md` with YAML frontmatter
