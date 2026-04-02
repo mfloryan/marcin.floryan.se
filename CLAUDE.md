@@ -12,17 +12,19 @@ Jekyll-based personal website for Marcin Floryan (marcin.floryan.se). Static sit
 ```bash
 ./serve.sh
 ```
-This runs `docker compose up serve` — Jekyll with livereload on ports 4000 and 35729.
-
-**Compile SCSS (run in parallel with serve.sh):**
-```bash
-node_modules/sass/sass.js --watch --silence-deprecation=mixed-decls site/_sass/main.scss site/assets/css/main.css
-```
+This runs `docker compose up serve sass` — Jekyll with livereload on ports 4000 and 35729, plus the SASS watcher. No local Ruby or Node required.
 
 **Production build:**
 ```bash
 ./build.sh
 ```
+
+**Update Ruby gems (when changing Gemfile):**
+```bash
+docker compose run --rm bundle
+docker compose build
+```
+`bundle update` writes the new `site/Gemfile.lock` via the volume mount; then rebuild the image to bake in the updated gems.
 
 ## Architecture
 
@@ -37,7 +39,7 @@ node_modules/sass/sass.js --watch --silence-deprecation=mixed-decls site/_sass/m
 
 ## Styling
 
-Uses [Pico CSS](https://picocss.com/) — semantic HTML-first framework that requires minimal class attributes. Custom styles go in `site/_sass/_styles.scss`. The SCSS is compiled by the Node.js `sass` package (not jekyll-sass-converter) because of version lag.
+Uses [Pico CSS](https://picocss.com/) — semantic HTML-first framework that requires minimal class attributes. Custom styles go in `site/_sass/_styles.scss`. The SCSS is compiled by the Node.js `sass` package (via the `sass` Docker service) rather than `jekyll-sass-converter` — Jekyll excludes `_sass/` from processing. The `node_modules/` directory in the repo root provides the sass binary.
 
 ## Jekyll Configuration
 
@@ -47,4 +49,4 @@ Uses [Pico CSS](https://picocss.com/) — semantic HTML-first framework that req
 
 - New blog post: create `site/_posts/YYYY-MM-DD-title.md` with YAML frontmatter
 - New event: create `site/_events/YYYY-MM-DD-title.md`
-- The Docker container runs Jekyll; no local Ruby install required
+- No local Ruby or Node required — everything runs in Docker

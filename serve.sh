@@ -1,2 +1,2 @@
-docker compose up serve
+docker compose up serve sass
 docker compose down

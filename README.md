@@ -10,7 +10,12 @@ This becomes the https://marcin.floryan.se/ website after being parsed through [
 
 ## Docker images
 
-Now using simple docker image defined in `Dockerfile` that pulls the latest version of jekyll and facilitate running with `docker compose`
+Two images, both built locally and run via `docker compose`:
+
+- `Dockerfile` — Ruby-only image (`ruby:3.3-slim`) for Jekyll. Gems are baked in at build time from `site/Gemfile.lock`.
+- `Dockerfile.sass` — Node image (`node:22-slim`) for SCSS compilation. The `sass` package is installed at build time via `npm ci`.
+
+No local Ruby or Node required.
 
 Previously used existing docker images such as
 
@@ -23,15 +28,31 @@ Decided against hand-crafting my won CSS and instead lean on existing framework.
 
 ### SCSS
 
-I have decided to customise the Pico CSS budle using SASS. Jekyll support SASS out of the box through the bundled `jekyll-sass-converter` plugin [^1]. Unfortunately that plugin has last been updated in December 2022. It uses `sass-embedded` gem at 1.75 while the latest version is `1.81` in December 2024. As such it does not support the latest syntax and an alternative tool needs to be used instead. I opted for a node module.
+I have decided to customise the Pico CSS bundle using SASS. Jekyll supports SASS out of the box through the bundled `jekyll-sass-converter` plugin [^1]. Unfortunately `jekyll-sass-converter` lags behind on its `sass-embedded` dependency and does not support the latest syntax. The SCSS is therefore compiled by a separate `sass` Docker service using the Node `sass` package instead. Jekyll's own `_sass/` processing is disabled via `exclude` in `_config.yaml`.
 
 [^1]: [Jekyll Sass configuration page](https://jekyllrb.com/docs/configuration/sass/)
 
 ## Workflow
 
+**Dev server** (Jekyll + SASS watcher, both in Docker):
 ```sh
 ./serve.sh
-node_modules/sass/sass.js --watch --silence-deprecation=mixed-decls site/_sass/main.scss site/assets/css/main.css
+```
+
+**Production build:**
+```sh
+./build.sh
+```
+
+**Update Ruby gems** (when changing `site/Gemfile`):
+```sh
+docker compose run --rm bundle
+docker compose build
+```
+
+**Update Node packages** (when changing `package.json`):
+```sh
+docker compose build sass
 ```
 
 ## Useful pointers

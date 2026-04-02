@@ -23,3 +23,23 @@ services:
       bundle exec jekyll build --verbose --destination /marcin.floryan.se/
     environment:
       - JEKYLL_ENV=production
+
+  sass:
+    build:
+      context: .
+      dockerfile: Dockerfile.sass
+    image: mf-site-sass
+    working_dir: /app
+    volumes:
+      - ./site:/app/site
+    command: >
+      node node_modules/sass/sass.js --watch --silence-deprecation=mixed-decls site/_sass/main.scss site/assets/css/main.css
+
+  # Run `docker compose run --rm bundle` to update site/Gemfile.lock,
+  # then `docker compose build` to rebuild the image with the new gems.
+  bundle:
+    build: .
+    image: mf-site-jekyll
+    volumes:
+      - ./site:/site
+    command: bundle update
