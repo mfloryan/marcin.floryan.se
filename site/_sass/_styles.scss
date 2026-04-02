@@ -108,6 +108,21 @@ header.front-page {
   text-align: right;
 }
 
+a:has(> i.fa-2xl) {
+  display: inline-block;
+  line-height: 1;
+  padding: 0.3em;
+  opacity: 0.65;
+  transition: opacity 0.2s, transform 0.15s;
+
+  &:hover {
+    opacity: 1;
+    background-color: transparent;
+    text-decoration: none;
+    transform: translateY(-4px);
+  }
+}
+
 .flags {
   text-align: right;
   position: relative;
