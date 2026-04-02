@@ -10,7 +10,7 @@ services:
       - 4000:4000
       - 35729:35729
     command: >
-      bundle exec jekyll serve --livereload --livereload-min-delay 5 --incremental --trace --host 0.0.0.0
+      bundle exec jekyll serve --livereload --livereload-min-delay 5 --trace --host 0.0.0.0
     environment:
       - JEKYLL_ENV=development
 
@@ -33,7 +33,7 @@ services:
     volumes:
       - ./site:/app/site
     command: >
-      node node_modules/sass/sass.js --watch --silence-deprecation=mixed-decls site/_sass/main.scss site/assets/css/main.css
+      node node_modules/sass/sass.js --watch --poll --silence-deprecation=if-function site/_sass/main.scss site/assets/css/main.css
 
   # Run `docker compose run --rm bundle` to update site/Gemfile.lock,
   # then `docker compose build` to rebuild the image with the new gems.
