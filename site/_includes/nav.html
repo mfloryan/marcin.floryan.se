@@ -1,8 +1,12 @@
-<nav>
-    <ul>
-        <li><a href="/"><strong>Marcin Floryan</strong></a></li>
-    </ul>
-    <ul>
+<nav class="pure-css-menu">
+    <div class="nav-header">
+        <ul>
+            <li><a href="/"><strong>Marcin Floryan</strong></a></li>
+        </ul>
+        <label for="menu-toggle" class="menu-icon">&#9776;</label>
+    </div>
+    <input type="checkbox" id="menu-toggle" class="menu-toggle">
+    <ul class="menu-items">
     {% for item in site.data.nav %}
     <li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
     {% endfor %}
