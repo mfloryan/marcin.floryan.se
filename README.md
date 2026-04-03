@@ -8,6 +8,7 @@ This becomes the https://marcin.floryan.se/ website after being parsed through [
 - [jekyll-figure](https://github.com/paulrobertlloyd/jekyll-figure)
 - [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
 - [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
+- [html-proofer](https://github.com/gjtorikian/html-proofer)
 
 ## Docker images
 
@@ -40,9 +41,14 @@ I have decided to customise the Pico CSS bundle using SASS. Jekyll supports SASS
 ./serve.sh
 ```
 
-**Production build:**
+**Production build** (Jekyll build + htmlproofer validation):
 ```sh
 ./build.sh
+```
+
+**Run htmlproofer only** (against the last build):
+```sh
+docker compose run --rm proof
 ```
 
 **Update Ruby gems** (when changing `site/Gemfile`):
