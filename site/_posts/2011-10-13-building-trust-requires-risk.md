@@ -7,7 +7,7 @@ type: post
 tags: [agile, communication]
 ---
 
-[Catia](http://twitter.com/#!/CatOliv) highlighted [trust as her favourite value](http://scrumplicity.wordpress.com/2011/09/22/valuable-marriage/). I wholeheartedly agree. This is one of the key perquisites and an enabler for true learning and effective collaboration. I'm happy [Yves](http://www.hanoulle.be) followed up. He told [a great story](http://www.hanoulle.be/2011/09/who-do-you-trust/) about Joppe, his son.
+[Catia](https://twitter.com/#!/CatOliv) highlighted [trust as her favourite value](https://scrumplicity.wordpress.com/2011/09/22/valuable-marriage/). I wholeheartedly agree. This is one of the key perquisites and an enabler for true learning and effective collaboration. I'm happy [Yves](https://www.hanoulle.be) followed up. He told [a great story](https://www.hanoulle.be/2011/09/who-do-you-trust/) about Joppe, his son.
 
 I love this story. You should go an read it now.
 
@@ -20,14 +20,14 @@ Yves also asked and interesting question: _"When you need more trust to write, w
 It reminded me of a conversation on twitter some time ago:
 
 [blackbirdpie id="101677423875207168"]  
-[blackbirdpie url="http://twitter.com/#!/mhsutton/status/101777910465171457"]  
-[blackbirdpie url="http://twitter.com/#!/PDarrall/status/101778150190616577"]  
-[blackbirdpie url="http://twitter.com/#!/mfloryan/status/101911869039714304"]  
-[blackbirdpie url="http://twitter.com/#!/PDarrall/status/101985417150205952"]
+[blackbirdpie url="https://twitter.com/#!/mhsutton/status/101777910465171457"]  
+[blackbirdpie url="https://twitter.com/#!/PDarrall/status/101778150190616577"]  
+[blackbirdpie url="https://twitter.com/#!/mfloryan/status/101911869039714304"]  
+[blackbirdpie url="https://twitter.com/#!/PDarrall/status/101985417150205952"]
 
 I'm now thinking that perhaps how quickly we establish trust has something to do with the nature of risk involved.
 
-Creating a large, ambitious pan-European conference is a risky business, _it's inherently risky_ (that's why [adopting real options](http://hhgttg.de/blog/2011/09/16/anarchy-with-purpose-emergent-awesomeness/) worked so well for us as ALE2011). Employing a stranger is also a risky venture, no matter how good we think we are at recruitment (to understand better why, read Gladwell's _["Most Likely to Succeed - How Do We Hire When We Can't Tell Who's Right for the Job?"](http://www.gladwell.com/2008/2008_12_15_a_teacher.html)_). These are situations where risk is external, we have very limited control over it - therefore _granting people trust straight away is a sensible strategy_.
+Creating a large, ambitious pan-European conference is a risky business, _it's inherently risky_ (that's why [adopting real options](https://hhgttg.de/blog/2011/09/16/anarchy-with-purpose-emergent-awesomeness/) worked so well for us as ALE2011). Employing a stranger is also a risky venture, no matter how good we think we are at recruitment (to understand better why, read Gladwell's _["Most Likely to Succeed - How Do We Hire When We Can't Tell Who's Right for the Job?"](https://www.gladwell.com/2008/2008_12_15_a_teacher.html)_). These are situations where risk is external, we have very limited control over it - therefore _granting people trust straight away is a sensible strategy_.
 
 Writing a story together, on the other hand, can be risky too but we are able to _control it_. Yves may decide which tree Joppe can attempt so he can slowly aim for the bigger ones and thus building trust gradually. Going for a piecemeal build-up of trust may be a better approach. I'd love to hear your thoughts.
 

@@ -7,7 +7,7 @@ type: post
 tags: agile
 ---
 
-I saw a tweet this morning. I thought it was funny and witty, another sign of good things to come from [Glitch](http://glitch.com/).
+I saw a tweet this morning. I thought it was funny and witty, another sign of good things to come from [Glitch](https://glitch.com/).
 
 > You pinched a Crab. The crab is hurt. It's not so much the pain of the pinching as the encroachment on the crab's job description. (-2 mood)
 
@@ -17,7 +17,7 @@ Success of any agile team, especially a newly forming one, depends heavily on th
 
 Specific job description is something people can hide behind: _"I'm not going to clarify those requirements, it's not my job"_. It also provides a (somewhat false) sense of security: _"I'm the only person in the team who can sing-off testing"_. People can feel uneasy, after all: _"Only us developers can write good code"_. It can undermine equality and take focus away from the ultimate goal - delivering quality software that provides business value. It creates boundaries, promotes silos, isolation, exclusion - or at least it can in some (sadly not uncommon) situations. It appears to stand in conflict with the idea of **cross-functional team**.
 
-If abandoning job descriptions (and specific titles with it) sounds risky and dangerous - perhaps it is. It certainly requires commitment, transparency and responsibility. It breaks the traditional mould, it is brave. Yet it has successfully been done before and not only in IT (where it slowly becomes less and less controversial) but also in other industries and disciplines. My favourite example is that of [Ricardo Semler's Semco](http://www.amazon.co.uk/Maverick-Success-Behind-Unusual-Workplace/dp/0712678867):
+If abandoning job descriptions (and specific titles with it) sounds risky and dangerous - perhaps it is. It certainly requires commitment, transparency and responsibility. It breaks the traditional mould, it is brave. Yet it has successfully been done before and not only in IT (where it slowly becomes less and less controversial) but also in other industries and disciplines. My favourite example is that of [Ricardo Semler's Semco](https://www.amazon.co.uk/Maverick-Success-Behind-Unusual-Workplace/dp/0712678867):
 
 > Performing multiple roles during the crisis gave workers greater knowledge of the operations and more suggestions on how to improve the business. Reforms implemented during that time led to 65% reduction in inventories, a marked reduction in product delivery times and a product defects rate that fell to less than 1%. As the business climate improved, Semco's revenues and profitability improved dramatically.
 

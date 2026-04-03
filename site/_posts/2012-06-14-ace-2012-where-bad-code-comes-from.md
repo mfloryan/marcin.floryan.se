@@ -11,8 +11,8 @@ The slides from my "Where Bad Code Comes From" talk at the ACE! 2012 conference 
 
 If you were able to attend, thank you for your participation.
 
-The slides are on [Speaker Deck](http://speakerdeck.com/) as I like it above Slide Share, sadly, it doesn't seem to be working at times.
+The slides are on [Speaker Deck](https://speakerdeck.com/) as I like it above Slide Share, sadly, it doesn't seem to be working at times.
 
 [Where Bad Code Comes From - Speaker Deck](https://speakerdeck.com/mfloryan/where-bad-code-comes-from)
 
-So if Speaker Deck is not responsive you can go directly to the [deck on Slide Share](http://www.slideshare.net/mfloryan/where-bad-code-comes-from).
+So if Speaker Deck is not responsive you can go directly to the [deck on Slide Share](https://www.slideshare.net/mfloryan/where-bad-code-comes-from).

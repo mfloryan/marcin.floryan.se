@@ -7,13 +7,13 @@ type: post
 tags: Scrum
 ---
 
-Before we go any further let me clarify one aspect. I fully subscribe to Uncle Bob's view that [certification can be a waste of time](http://blog.objectmentor.com/articles/2010/04/27/certification-dont-waste-your-time "Certification: Don't Waste Your Time! ").
+Before we go any further let me clarify one aspect. I fully subscribe to Uncle Bob's view that [certification can be a waste of time](https://blog.objectmentor.com/articles/2010/04/27/certification-dont-waste-your-time "Certification: Don't Waste Your Time! ").
 
-I have recently had an opportunity to take some extra training and, following very good past experience with training from [Skills Matter](http://skillsmatter.com/ "Skills Matter website"), I decided to pick a _[Certified ScrumMaster training](http://skillsmatter.com/partner/agile-scrum/scrum-alliance)_ from their offer.
+I have recently had an opportunity to take some extra training and, following very good past experience with training from [Skills Matter](https://skillsmatter.com/ "Skills Matter website"), I decided to pick a _[Certified ScrumMaster training](https://skillsmatter.com/partner/agile-scrum/scrum-alliance)_ from their offer.
 
 I have been doing Scrum for over a year now so I felt I have had some exposure and a little bit of knowledge of the subject. I have also witnessed some of the _conversations_ in the community of advantages and disadvantages of Scrum as well as of alternatives such as (some will say) Kanban. CSM programme itself has also caused _a bit of controversy_.
 
-I'm a pretty inquisitive person so decided this would be an excellent opportunity to get a first hand experience, gain better understanding and learn. I was also interested to meet [Mike Vizdos](http://www.michaelvizdos.com/) whom I have heard of before through his witty Chicken & Pig cartoons at [http://www.implementingscrum.com/](http://www.implementingscrum.com/)
+I'm a pretty inquisitive person so decided this would be an excellent opportunity to get a first hand experience, gain better understanding and learn. I was also interested to meet [Mike Vizdos](https://www.michaelvizdos.com/) whom I have heard of before through his witty Chicken & Pig cartoons at [https://www.implementingscrum.com/](https://www.implementingscrum.com/)
 
 ![You suck. And that makes me sad.](/assets/images/2010/07/061106-scrumtoon.jpg "061106-scrumtoon")
 
@@ -36,7 +36,7 @@ It was an interesting experience to see some of the common **misconceptions** ab
 - _ScrumMaster is responsible for producing charts and creating process documentation_
   - What documentation? Who are the charts for?
 
-[![](/assets/images/2010/07/certificates-by-dennis-wong-flickr-300x200.jpg "certificates-by-dennis-wong-flickr")](http://www.flickr.com/photos/denniswong/2406135310/)I can now re-iterate a _Certified ScrumMaster_ is certified or, in other words, simply **confirmed** to have **attended the two day training**. Is that enough to be a ScrumMaster on a Scrum team - yes. Is it useful - yes. It is essential - no. Does that make one a good (or a better) ScrumMaster - definitely not. Since the pivotal role of a ScrumMaster is to **work with people** the only way to become good and competent is to practice, practice and practice and go through many deliberate learning cycles.
+[![](/assets/images/2010/07/certificates-by-dennis-wong-flickr-300x200.jpg "certificates-by-dennis-wong-flickr")](https://www.flickr.com/photos/denniswong/2406135310/)I can now re-iterate a _Certified ScrumMaster_ is certified or, in other words, simply **confirmed** to have **attended the two day training**. Is that enough to be a ScrumMaster on a Scrum team - yes. Is it useful - yes. It is essential - no. Does that make one a good (or a better) ScrumMaster - definitely not. Since the pivotal role of a ScrumMaster is to **work with people** the only way to become good and competent is to practice, practice and practice and go through many deliberate learning cycles.
 
 Also, it does make a difference, who your trainer is. I was lucky (or picked smart).
 

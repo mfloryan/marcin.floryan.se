@@ -7,9 +7,9 @@ type: post
 tags: [agile, people]
 ---
 
-[Catia](http://twitter.com/#!/CatOliv), thank you for [inviting me to pair-write](http://scrumplicity.wordpress.com/2011/09/20/when-your-company-wants-the-divorce/). Here is a story:
+[Catia](https://twitter.com/#!/CatOliv), thank you for [inviting me to pair-write](https://scrumplicity.wordpress.com/2011/09/20/when-your-company-wants-the-divorce/). Here is a story:
 
-I walk into my daughter’s bedroom. She's only three so there is still time before she slaps her favourite band, actor or a [Moominvalley](http://en.wikipedia.org/wiki/Moominvalley) character poster on the wall. So far we have been doing all the writing. There is her name in nice red serif on one wall and a pale-pink “sleep tight, sweet dreams” next to her bed. I think she likes it.
+I walk into my daughter’s bedroom. She's only three so there is still time before she slaps her favourite band, actor or a [Moominvalley](https://en.wikipedia.org/wiki/Moominvalley) character poster on the wall. So far we have been doing all the writing. There is her name in nice red serif on one wall and a pale-pink “sleep tight, sweet dreams” next to her bed. I think she likes it.
 
 However, we didn't write _“we value you as an individual”_ or _“we care about your wellbeing”_. She wouldn't get it. We wouldn't write it. _Who would?_
 
@@ -21,7 +21,7 @@ It was too painful to look at the bold and ambitious declarations and at the con
 
 I agree, values work best when they are embodied in what we do: in our relations, in our decisions and attitude. We're generally pretty good at picking up hints from around us, we notice quickly when colleagues are friendly towards each other, when managers trust their teams, when directors are honest. We do not need a map for that. To single out a set of values is perhaps too constraining is such case. Would it mean we don't care about _other values_?
 
-There is also another important problem when we fly the values on a poster, especially it it's done superficially. Ask [Argyris](http://en.wikipedia.org/wiki/Chris_Argyris) (well, you might not want to bother him, [read instead](http://blog.benjaminm.net/argyris/)). Each of us has a set of espoused values. Values we think we put in practice. There is however also the other set of values, the values in use – those visible through our actions. No matter how “good” we think we are there is always a gap between the two and our brains are extremely good at hiding that gap from us. It's hard and sometimes painful to look into the void, especially if the sides are feet apart rather than inches. What happens when we make the espoused part explicit and fixed? We don't close the gap, we disconnect the two. It's almost like saying: "_Look, we're done with our values, here they are, move on_"
+There is also another important problem when we fly the values on a poster, especially it it's done superficially. Ask [Argyris](https://en.wikipedia.org/wiki/Chris_Argyris) (well, you might not want to bother him, [read instead](https://blog.benjaminm.net/argyris/)). Each of us has a set of espoused values. Values we think we put in practice. There is however also the other set of values, the values in use – those visible through our actions. No matter how “good” we think we are there is always a gap between the two and our brains are extremely good at hiding that gap from us. It's hard and sometimes painful to look into the void, especially if the sides are feet apart rather than inches. What happens when we make the espoused part explicit and fixed? We don't close the gap, we disconnect the two. It's almost like saying: "_Look, we're done with our values, here they are, move on_"
 
 If you still think it's a good idea to list your values, here is a real example, snapped somewhere 'in passing'. A list of corporate values...
 

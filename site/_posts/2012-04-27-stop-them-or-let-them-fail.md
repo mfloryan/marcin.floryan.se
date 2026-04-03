@@ -13,7 +13,7 @@ Every now and then my twitter stream comes up with an interesting statement or q
 
 I'm going to treat is slightly broader, speaking of a team rather then just a team lead.
 
-This is not only an interesting question but also one which, I bet, often gets asked, especially as teams gain autonomy in organisations. Let's leave out, for the time being, the more fundamental issue, whether we need managers at all, and [Bob](http://twitter.com/flowchainsensei) has some [tasty thoughts](http://flowchainsensei.wordpress.com/2012/04/09/lay-off-the-managers/) about this.
+This is not only an interesting question but also one which, I bet, often gets asked, especially as teams gain autonomy in organisations. Let's leave out, for the time being, the more fundamental issue, whether we need managers at all, and [Bob](https://twitter.com/flowchainsensei) has some [tasty thoughts](https://flowchainsensei.wordpress.com/2012/04/09/lay-off-the-managers/) about this.
 
 Let's consider the two possible solutions to this conundrum.
 
@@ -27,11 +27,11 @@ If you care about your team accepting responsibility, about their autonomy and m
 
 **There is a third way.**
 
-When Paweł initially asked this question my immediate reaction was that it is _irresponsible_ to do either. It felt very similar to the problem of delegation. _"To delegate or not"_ appears to be a puzzle for many managers. Jurgen gives [a good solution](http://www.slideshare.net/jurgenappelo/agile-management-authority-delegation) to this one reminding us that there are in fact perhaps _as many as seven different levels of delegation_ between the two extremes.
+When Paweł initially asked this question my immediate reaction was that it is _irresponsible_ to do either. It felt very similar to the problem of delegation. _"To delegate or not"_ appears to be a puzzle for many managers. Jurgen gives [a good solution](https://www.slideshare.net/jurgenappelo/agile-management-authority-delegation) to this one reminding us that there are in fact perhaps _as many as seven different levels of delegation_ between the two extremes.
 
 I believe it's better to aim for the middle in this particular situation too. My preferred choice would be for the manager to honestly and openly approach the team. They should share their concerns in a neutral manner giving the team the information and the context they might be missing. Seeking to learn their position on the problem, exploring the different potential outcomes, exposing any implicit assumptions that either side might be holding and then allowing the team to take an independent, but hopefully better informed, decision. And even thought it sounds like a long-winded process it can all be done in a 15 minute chat at a cafeteria.
 
-However, remember what [Senge](http://www.solonline.org/FifthDiscipline/) repeats after [Argyris](http://en.wikipedia.org/wiki/Chris_Argyris)
+However, remember what [Senge](https://www.solonline.org/FifthDiscipline/) repeats after [Argyris](https://en.wikipedia.org/wiki/Chris_Argyris)
 
 > If there is disagreement, it's usually expressed in a manner that lays blame, polarises opinion, and fails to reveal the underlying assumptions and experience in a way that the team as a whole could learn from.
 

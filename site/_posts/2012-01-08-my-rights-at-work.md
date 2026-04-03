@@ -7,7 +7,7 @@ type: post
 tags: [flow, management, work]
 ---
 
-I'm reading [Flow](http://www.amazon.co.uk/Flow-Psychology-Experience-Mihaly-Csikszentmihalyi/dp/0060920432) at the moment, I'm looking at whats going on at [Stoos](http://www.stoosnetwork.org/), I'm recalling my different work experiences... and I'm thinking what might be wrong with the world at work.
+I'm reading [Flow](https://www.amazon.co.uk/Flow-Psychology-Experience-Mihaly-Csikszentmihalyi/dp/0060920432) at the moment, I'm looking at whats going on at [Stoos](https://www.stoosnetwork.org/), I'm recalling my different work experiences... and I'm thinking what might be wrong with the world at work.
 
 Perhaps the problem with management these days is not just a problem of management. What if we also contributed by accepting the unacceptable status quo, by remaining silent when we should speak up, by holding on to a job we should have left long time ago? By forgoing the fundamental rights we should have had at work? Like these rights that just came to my mind:
 

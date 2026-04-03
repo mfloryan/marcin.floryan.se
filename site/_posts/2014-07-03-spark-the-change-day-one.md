@@ -7,7 +7,7 @@ type: post
 tags: management
 ---
 
-When I looked at the [Spark The Change conference](http://sparkthechange.co.uk/) programme a few weeks ago I was pleased to see a wide variety of speakers and a broad spectrum of industries. It was promising to provide plenty of fresh ideas and learning opportunities.
+When I looked at the [Spark The Change conference](https://sparkthechange.co.uk/) programme a few weeks ago I was pleased to see a wide variety of speakers and a broad spectrum of industries. It was promising to provide plenty of fresh ideas and learning opportunities.
 
 The first day is now behind us and for one I can say I’m still buzzing with ideas, thoughts and inspirations. I have been to some great talks and made valuable connection with friends old and new.
 

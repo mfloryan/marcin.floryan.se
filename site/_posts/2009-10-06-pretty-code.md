@@ -13,7 +13,7 @@ The standard **Courier New** font
 
 [![vs-font-courier-new](/assets/images/2009/10/vs-font-courier-new-300x168.png "vs-font-courier-new")](/assets/images/2009/09/vs-font-courier-new.png)
 
-Microsoft own **[Consolas](http://www.microsoft.com/DOWNLOADS/details.aspx?familyid=22E69AE4-7E40-4807-8A86-B3D36FAB68D3&displaylang=en "Consolas Font Pack for Microsoft Visual Studio 2005 or 2008")**
+Microsoft own **[Consolas](https://www.microsoft.com/DOWNLOADS/details.aspx?familyid=22E69AE4-7E40-4807-8A86-B3D36FAB68D3&displaylang=en "Consolas Font Pack for Microsoft Visual Studio 2005 or 2008")**
 
 [![vs-font-consolas](/assets/images/2009/10/vs-font-consolas-300x168.png "vs-font-consolas")](/assets/images/2009/09/vs-font-consolas.png)
 
@@ -21,15 +21,15 @@ Microsoft own **[Consolas](http://www.microsoft.com/DOWNLOADS/details.aspx?famil
 
 [![vs-font-lucida-console](/assets/images/2009/10/vs-font-lucida-console-300x168.png "vs-font-lucida-console")](/assets/images/2009/09/vs-font-lucida-console.png)
 
-The **DejaVu Mono** form the freely available [DejaVu fonts](http://dejavu-fonts.org/ "DejaVu")
+The **DejaVu Mono** form the freely available [DejaVu fonts](https://dejavu-fonts.org/ "DejaVu")
 
 [![vs-font-dejavu-mono](/assets/images/2009/10/vs-font-dejavu-mono-300x168.png "vs-font-dejavu-mono")](/assets/images/2009/09/vs-font-dejavu-mono.png)
 
-Google's **[Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font "Droid Sans Mono great coding font ")**
+Google's **[Droid Sans Mono](https://damieng.com/blog/2007/11/14/droid-sans-mono-great-coding-font "Droid Sans Mono great coding font ")**
 
 [![vs-font-droid-mono](/assets/images/2009/10/vs-font-droid-mono-300x168.png "vs-font-droid-mono")](/assets/images/2009/09/vs-font-droid-mono.png)
 
-[**Envy Code R**](http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released "Envy Code R preview #7 (scalable coding font)") by Damien Guard
+[**Envy Code R**](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released "Envy Code R preview #7 (scalable coding font)") by Damien Guard
 
 [![vs-font-envy-code-r](/assets/images/2009/10/vs-font-envy-code-r-300x168.png "vs-font-envy-code-r")](/assets/images/2009/09/vs-font-envy-code-r.png)
 
@@ -39,7 +39,7 @@ Interestingly enough few days ago, in one of the books I'm reading, I found more
 
 > Aesthetic considerations are merely an emotional response. That couldn't possibly affect cognitive processing. Could it? Yes it can. In fact, additional studies have shown exactly that: positive emotions are essential to learning and creative thinking.
 
-_[Pragmatic Thinking & Learning](http://www.pragprog.com/titles/ahptl/pragmatic-thinking-and-learning "Pragmatic Thinking and Learning: Refactor Your Wetware") by Andy Hunt, p. 66_
+_[Pragmatic Thinking & Learning](https://www.pragprog.com/titles/ahptl/pragmatic-thinking-and-learning "Pragmatic Thinking and Learning: Refactor Your Wetware") by Andy Hunt, p. 66_
 
 _(a very good read BTW)_
 
@@ -47,5 +47,5 @@ Now go and select your favourite coding font and boost your productivity.
 
 For some more inspirations make sure you also check out:
 
-- Damien's posts on coding fonts @ [http://damieng.com/blog/tag/coding-fonts](http://damieng.com/blog/tag/coding-fonts)
-- Coding Horror: Programming Fonts @ [http://www.codinghorror.com/blog/archives/000157.html](http://www.codinghorror.com/blog/archives/000157.html)
+- Damien's posts on coding fonts @ [https://damieng.com/blog/tag/coding-fonts](https://damieng.com/blog/tag/coding-fonts)
+- Coding Horror: Programming Fonts @ [https://www.codinghorror.com/blog/archives/000157.html](https://www.codinghorror.com/blog/archives/000157.html)

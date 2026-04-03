@@ -7,7 +7,7 @@ type: post
 tags: [agile, planning]
 ---
 
-This Christmas we are driving all the way through Europe from England to Poland. I was planning this trip the other day but yesterday I came to the "Agile Estimation and Planning" presentation by [@agilekev](http://twitter.com/agilekev "@agilekev"). Kevin used the car journey analogy for how we should plan Agile projects - I really liked this idea so I nicked it to apply it here.
+This Christmas we are driving all the way through Europe from England to Poland. I was planning this trip the other day but yesterday I came to the "Agile Estimation and Planning" presentation by [@agilekev](https://twitter.com/agilekev "@agilekev"). Kevin used the car journey analogy for how we should plan Agile projects - I really liked this idea so I nicked it to apply it here.
 
 ![Trip-to-Poland](/assets/images/2009/12/Trip-to-Poland.png "Trip-to-Poland")
 

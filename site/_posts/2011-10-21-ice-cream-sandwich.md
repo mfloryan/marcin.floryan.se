@@ -9,9 +9,9 @@ redirect_from:
   - /blog/2011/10/ice-cream-sandwitch
 ---
 
-![](/assets/images/2011/10/IceCreamSandwich-300x190.png "Ice Cream Sandwich")No, it's not going to be about the [next version](http://thisismynext.com/2011/10/18/exclusive-matias-duarte-ice-cream-sandwich-galaxy-nexus/) of the Android operating system.
+![](/assets/images/2011/10/IceCreamSandwich-300x190.png "Ice Cream Sandwich")No, it's not going to be about the [next version](https://thisismynext.com/2011/10/18/exclusive-matias-duarte-ice-cream-sandwich-galaxy-nexus/) of the Android operating system.
 
-I missed the [Energized Work](http://www.energizedwork.com/) book club yesterday but managed to [see the video](http://www.infoq.com/presentations/Kanban-Management-Fad) by [Benjamin](http://blog.benjaminm.net/) that was being discussed. Together with [this presentation](http://people.gnome.org/~michael/data/2011-10-13-new-developers.pdf) I bumped into [on twitter](http://twitter.com/#!/migueldeicaza/status/127021630156316672) it prompted me to consider how we give feedback.
+I missed the [Energized Work](https://www.energizedwork.com/) book club yesterday but managed to [see the video](https://www.infoq.com/presentations/Kanban-Management-Fad) by [Benjamin](https://blog.benjaminm.net/) that was being discussed. Together with [this presentation](https://people.gnome.org/~michael/data/2011-10-13-new-developers.pdf) I bumped into [on twitter](https://twitter.com/#!/migueldeicaza/status/127021630156316672) it prompted me to consider how we give feedback.
 
 The traditional management approach to giving feedback was to get it all out, straight and with no adornments. Perhaps you might have experienced something like this:
 

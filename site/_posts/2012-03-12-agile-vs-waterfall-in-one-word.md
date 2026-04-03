@@ -9,15 +9,15 @@ tags: agile
 
 Last week I [asked on twitter](https://twitter.com/mfloryan/status/174108622211653634) how we could describe difference between Waterfall and Agile in one word. As I'm recently doing some research work and find myself often needing to summarise and extract essence of ideas I though this could be an interesting exercise.
 
-[![](/assets/images/2012/03/380926246_78e487aaca_m.jpg "SQUID VS. WHALE from flickr by Linden Tea under cc-by-nc-nd-2.0 license")](http://www.flickr.com/photos/linden_tea/380926246/)I was really impressed with the thoughts that came:
+[![](/assets/images/2012/03/380926246_78e487aaca_m.jpg "SQUID VS. WHALE from flickr by Linden Tea under cc-by-nc-nd-2.0 license")](https://www.flickr.com/photos/linden_tea/380926246/)I was really impressed with the thoughts that came:
 
-- [Sean](http://twitter.com/seanblezard) suggested **learning**
-- [Kurt](http://twitter.com/Kurt_Haeusler) - **batch size** (OK, not one word, unless you're German)
-- [Radu](http://twitter.com/rdavidescu) - **defaults**
-- [Karen](http://twitter.com/karen_rodgers) - **flow**
-- [Chris](http://twitter.com/thirstybear) - **stress**
-- [Gitte](http://twitter.com/NativeWired) - **choice**
-- [Simon](http://twitter.com/energizr) - **mindset**
+- [Sean](https://twitter.com/seanblezard) suggested **learning**
+- [Kurt](https://twitter.com/Kurt_Haeusler) - **batch size** (OK, not one word, unless you're German)
+- [Radu](https://twitter.com/rdavidescu) - **defaults**
+- [Karen](https://twitter.com/karen_rodgers) - **flow**
+- [Chris](https://twitter.com/thirstybear) - **stress**
+- [Gitte](https://twitter.com/NativeWired) - **choice**
+- [Simon](https://twitter.com/energizr) - **mindset**
 - and for my own part, I'm putting forward **feedback**
 
 Now I'll try to reverse the process and unpick these single words into the ideas that I think might stand behind them. Use comments generously if you think I missed something or disagree with my thinking.

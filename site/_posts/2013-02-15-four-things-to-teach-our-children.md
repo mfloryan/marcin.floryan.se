@@ -27,8 +27,8 @@ Today's world is one in which we don't and cannot know everything, there is simp
 
 Related Material:
 
-- [Pragmatic Thinking and Learning](http://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) - Andy Hunt
-- [Deliberate Discovery](http://dannorth.net/2010/08/30/introducing-deliberate-discovery/) - Dan North
+- [Pragmatic Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) - Andy Hunt
+- [Deliberate Discovery](https://dannorth.net/2010/08/30/introducing-deliberate-discovery/) - Dan North
 
 ### Discipline
 
@@ -39,10 +39,10 @@ We're not referring to subjecting people to external discipline. Many of us don'
 
 Related Material:
 
-- [The 7 Habits of Highly Effective People](http://www.amazon.co.uk/gp/product/0684858398/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0684858398&linkCode=as2&tag=marcflor-21) - Stephen R. Covey
-- [Pomodoro technique](http://www.pomodorotechnique.com/) - Francesco Cirillo
-- [Flow: The Psychology of Happiness](http://www.amazon.co.uk/gp/product/0712657592/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0712657592&linkCode=as2&tag=marcflor-21) - Mihaly Csikszentmihalyi
-- [Personal Kanban](http://www.amazon.co.uk/gp/product/1453802266/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1453802266&linkCode=as2&tag=marcflor-21) - Jim Benson, Tonianne DeMaria Barry
+- [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/gp/product/0684858398/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0684858398&linkCode=as2&tag=marcflor-21) - Stephen R. Covey
+- [Pomodoro technique](https://www.pomodorotechnique.com/) - Francesco Cirillo
+- [Flow: The Psychology of Happiness](https://www.amazon.co.uk/gp/product/0712657592/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0712657592&linkCode=as2&tag=marcflor-21) - Mihaly Csikszentmihalyi
+- [Personal Kanban](https://www.amazon.co.uk/gp/product/1453802266/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1453802266&linkCode=as2&tag=marcflor-21) - Jim Benson, Tonianne DeMaria Barry
 
 ### Decision Making
 
@@ -54,9 +54,9 @@ Increasingly, we find ourselves making many decisions every day, as we become mo
 Related Material:
 
 - [Thinking Fast Thinking Slow](https://www.amazon.co.uk/dp/0141033576/ref=as_li_ss_til?tag=marcflor-21&camp=2902&creative=19466&linkCode=as4&creativeASIN=0141033576&adid=1WX2JJKHPAD92RAABQCB&) - Daniel Kanehman
-- [Becoming a Technical Leader](http://www.amazon.co.uk/gp/product/B004J4VV3I/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004J4VV3I&linkCode=as2&tag=marcflor-21) - Gerald Weinberg
-- [Embracing Uncertainty](http://vimeo.com/43603453) - Dan North
-- [Real Options](http://vimeo.com/30605539) - Chris Matts
+- [Becoming a Technical Leader](https://www.amazon.co.uk/gp/product/B004J4VV3I/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004J4VV3I&linkCode=as2&tag=marcflor-21) - Gerald Weinberg
+- [Embracing Uncertainty](https://vimeo.com/43603453) - Dan North
+- [Real Options](https://vimeo.com/30605539) - Chris Matts
 - [Decisive](https://www.amazon.co.uk/dp/0307956393/ref=as_li_ss_til?tag=marcflor-21&camp=2902&creative=19466&linkCode=as4&creativeASIN=0307956393&adid=0XNQDHVQKE1ZNKK0ME70&) - Chip Heath and Dan Heath
 
 ### Decency
@@ -69,10 +69,10 @@ By this we mean respecting each other, demonstrating empathy and understanding f
 Related Material:
 
 - [A Mind of its Own](https://www.amazon.co.uk/dp/1840467983/ref=as_li_ss_til?tag=marcflor-21&camp=2902&creative=19466&linkCode=as4&creativeASIN=1840467983&adid=0BJYQ7TCHC8PJACNAEX3&) - Cordelia Fine
-- [Nonviolent Communication](http://www.amazon.co.uk/gp/product/1892005034/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1892005034&linkCode=as2&tag=marcflor-21) - Marshall Rosenberg
-- [Difficult Conversations](http://www.amazon.co.uk/gp/product/014027782X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=014027782X&linkCode=as2&tag=marcflor-21) - Bruce Patton, Douglas Stone, Sheila Heen
-- [Interpersonal Conflict](http://www.amazon.co.uk/gp/product/0078036933/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0078036933&linkCode=as2&tag=marcflor-21) - William Wilmot, Joyce Hocker
+- [Nonviolent Communication](https://www.amazon.co.uk/gp/product/1892005034/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1892005034&linkCode=as2&tag=marcflor-21) - Marshall Rosenberg
+- [Difficult Conversations](https://www.amazon.co.uk/gp/product/014027782X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=014027782X&linkCode=as2&tag=marcflor-21) - Bruce Patton, Douglas Stone, Sheila Heen
+- [Interpersonal Conflict](https://www.amazon.co.uk/gp/product/0078036933/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0078036933&linkCode=as2&tag=marcflor-21) - William Wilmot, Joyce Hocker
 
 These are by no means intended to be complete, merely to inspire, as we believe these are often neglected and deserve to be higher on our agenda both as individuals and as a society. We love having these kind of philosophical debates and felt that this one had some legs beyond us, so we want to share them. We'd love to hear from you.
 
-_Marcin and [Marc](http://twitter.com/marcjohnson)_
+_Marcin and [Marc](https://twitter.com/marcjohnson)_

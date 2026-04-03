@@ -8,9 +8,9 @@ type: post
 
 I have no idea how many times I have heard people exhort the virtues of trust in building communities and relationships especially in the context of work and communities of work. This message was particularly poignant and relevant during the Spark The Change conference a few weeks ago. I don’t think there was a single speaker or a single participant who would not agree that trust is essential for the success of any organisation. Usually all agree with that. I do.
 
-I pondered over this topic for a very long time (although I’m sure nowhere near [as much as Yves](http://www.hanoulle.be/2011/09/who-do-you-trust/)) and I always reach the same conclusion. The espoused value of trust is rarely congruent with behaviours in an organisation. People seem to interpret the meaning of trust in multiple ways and often appear to apply it differently in their personal and professional lives.
+I pondered over this topic for a very long time (although I’m sure nowhere near [as much as Yves](https://www.hanoulle.be/2011/09/who-do-you-trust/)) and I always reach the same conclusion. The espoused value of trust is rarely congruent with behaviours in an organisation. People seem to interpret the meaning of trust in multiple ways and often appear to apply it differently in their personal and professional lives.
 
-Just [like Jurgen](http://www.noop.nl/?s=life+work+balance) I have long felt that separating private and professional lives [is futile](http://marcin.floryan.pl/blog/2011/11/work-life-balance) and I feel it’s particularly so when it comes to trust.
+Just [like Jurgen](https://www.noop.nl/?s=life+work+balance) I have long felt that separating private and professional lives [is futile](https://marcin.floryan.pl/blog/2011/11/work-life-balance) and I feel it’s particularly so when it comes to trust.
 
 ### Model for Trust.
 

@@ -9,7 +9,7 @@ tags: [C#, tdd, WCF]
 
 I was writing some WCF services recently (driving development with unit tests, naturally) and eventually bumped into the problem I guess all authors of WCF services eventually bump into. I had to use the <tt>OperationContext.Current</tt>.
 
-A bit of googling revealed, unsurprisingly, I'm not the only person struggling to mock the <tt>OperationContext</tt>. It turns out there is also a solution out there. It's called [WCFMock](http://wcfmock.codeplex.com/) with a nice description is this blog post: "[WCFMock, a mocking framework for WCF services](http://weblogs.asp.net/cibrax/archive/2009/03/08/wcfmock-a-mocking-framework-for-wcf-services.aspx)".
+A bit of googling revealed, unsurprisingly, I'm not the only person struggling to mock the <tt>OperationContext</tt>. It turns out there is also a solution out there. It's called [WCFMock](https://wcfmock.codeplex.com/) with a nice description is this blog post: "[WCFMock, a mocking framework for WCF services](https://weblogs.asp.net/cibrax/archive/2009/03/08/wcfmock-a-mocking-framework-for-wcf-services.aspx)".
 
 While it looked promising I have two reservations about it. The first one hides in this line:
 
@@ -57,7 +57,7 @@ public void ShouldGetProductsFeed()
 
         operationResponseHandler.Verify(x =&gt; x.SetContentType("application/atom+xml"));
         Assert.AreEqual(1, items.Count());
-        Assert.IsTrue(items.Any(i =&gt; i.Id == "http://products/1" &amp;&amp; i.Title.Text == "Foo1"));
+        Assert.IsTrue(items.Any(i =&gt; i.Id == "https://products/1" &amp;&amp; i.Title.Text == "Foo1"));
     }
 }
 </operationresponsehandler></product>

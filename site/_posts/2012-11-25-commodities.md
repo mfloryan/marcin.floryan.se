@@ -16,7 +16,7 @@ In my observations of many different software development teams I often get an i
 
 All these statements suggest that time (that is if we had more of it) could easily be exchanged for other qualities of our software development processes. More time for development can be changed for cleaner code; more time planning - for higher certainty; more time testing - for higher product quality. This is a natural and understandable approach. Many things that we directly experience in the world around us, particularly those that deal with construction or production, appear to have such properties.
 
-In my experience these statements have very limited application to software in particular and more generally to product development. As Kevlin nicely puts it in [this great podcast](http://devnology.nl/en/podcast/10-content/208-devnology-podcast-025-kevlin-henney)
+In my experience these statements have very limited application to software in particular and more generally to product development. As Kevlin nicely puts it in [this great podcast](https://devnology.nl/en/podcast/10-content/208-devnology-podcast-025-kevlin-henney)
 
 > “because you spend a lot of time pausing trying to understand stuff […] it turns out you actually have plenty of time”
 

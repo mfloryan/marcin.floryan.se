@@ -19,13 +19,13 @@ That is why values are often complemented with principles - _"a rule or belief g
 
 Well written, clear and commonly accepted principles can be very effective at guiding behaviour and creating a homogenous and effective team or organisation.
 
-For example, this is how Herb Kelleher (CEO of Southwest airlines) demonstrates the usefulness of clear and actionable principles (quoted after [Made To Stick](http://www.heathbrothers.com/madetostick/) by Chip and Dan Heath)
+For example, this is how Herb Kelleher (CEO of Southwest airlines) demonstrates the usefulness of clear and actionable principles (quoted after [Made To Stick](https://www.heathbrothers.com/madetostick/) by Chip and Dan Heath)
 
 > "Here's an example," he said. "Tracy from marketing comes into your office. She says her surveys indicate that the passengers might enjoy a light entree on the Houston to Las Vegas flight. All we offer is peanuts, and she thinks a nice chicken Caesar salad would be popular. What do you say?" The person stammered for a moment, so Kelleher responded: "You say, 'Tracy, will adding that chicken Caesar salad make us THE low-fare airline from Houston to Las Vegas? Because if it doesn't help us become the unchallenged low-fare airline, we're not serving any damn chicken salad.'" Kelleher's Commander's Intent is "We are THE low-fare airline." This is a simple idea, but it is sufficiently useful that it has guided the actions of Southwest's employees for more than thirty years.
 
 Few organisations go far enough, or care enough, to achieve such clarity and consistency. It's a pity. But while you might not be able to tackle this at the global level, there is no reason you can't make it work for the team you're on.
 
-Diana Larsen and Ainsley Nies in their new book "[Liftoff](http://onyxneon.com/books/liftoff/): Launching Agile Teams & Projects" make writing team values and principles part of the chartering exercise in the chartering alignment part.
+Diana Larsen and Ainsley Nies in their new book "[Liftoff](https://onyxneon.com/books/liftoff/): Launching Agile Teams & Projects" make writing team values and principles part of the chartering exercise in the chartering alignment part.
 
 > The process of collaboratively identifying values and principles gives you team a chance to share and explore views about what's important, and to define the work environment you will create. And when difficult decisions need to be made, you'll use the principles as guides.
 

@@ -41,4 +41,4 @@ or non-functional requirements
 
 they should not be TODOs at all as there are better places (on the backlog) to capture this information.
 
-I have now decided to accelerate my learning (both about technology and project) and never to put another TODO in code. Instead, allocate time immediately (as I am never [too busy](http://www.scottberkun.com/blog/2010/the-cult-of-busy/)), and resolve the problem at hand. Try it, it may strangely increase your productivity.
+I have now decided to accelerate my learning (both about technology and project) and never to put another TODO in code. Instead, allocate time immediately (as I am never [too busy](https://www.scottberkun.com/blog/2010/the-cult-of-busy/)), and resolve the problem at hand. Try it, it may strangely increase your productivity.

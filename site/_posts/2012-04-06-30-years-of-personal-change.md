@@ -12,7 +12,7 @@ tags: [history, Poland, Newsweek]
 ![Cover of Newsweek magazine in April 1982](/assets/images/2012/04/newsweek-1982-04-14-cover-225x300.jpg "Cover of Newsweek magazine in April 1982")
 {% endfigure %}
 
-I dig deep in the family archives and picked up this April 1982 issue of Newsweek. We have two or three copies. The paper has already aged, it's frail and has this characteristic yellowness of an archive document to it. There is also a Polish translation of one of the articles typed through carbon paper on an old typewriter. Ah! The material [carbon copy](http://en.wikipedia.org/wiki/Carbon_copy).
+I dig deep in the family archives and picked up this April 1982 issue of Newsweek. We have two or three copies. The paper has already aged, it's frail and has this characteristic yellowness of an archive document to it. There is also a Polish translation of one of the articles typed through carbon paper on an old typewriter. Ah! The material [carbon copy](https://en.wikipedia.org/wiki/Carbon_copy).
 
 I think by 1982 it was already fine in Poland to have a copy of Newsweek at home; a few years earlier its discovery by the regime would have probably got you into some trouble.  
 The mentioned article is a feature from Poland describing a day in life of one Polish family.

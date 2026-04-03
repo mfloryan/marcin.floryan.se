@@ -9,7 +9,7 @@ tags: [3M, ideas, innovation]
 
 ![](/assets/images/2012/05/1011649358.jpg "3M Post-it notes")
 
-Looking through the [The PDMA Toolbook for New Product Development](http://www.amazon.co.uk/The-PDMA-ToolBook-Product-Development/dp/0471206113) I found this little nice snippet about how the ubiquitous 3M Post-it note come about.
+Looking through the [The PDMA Toolbook for New Product Development](https://www.amazon.co.uk/The-PDMA-ToolBook-Product-Development/dp/0471206113) I found this little nice snippet about how the ubiquitous 3M Post-it note come about.
 
 Seems like it's sometimes worth sticking to an idea (pun intended) in case you find a good use for it.
 
