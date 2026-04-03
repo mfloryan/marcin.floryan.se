@@ -3,7 +3,7 @@ url: "https://marcin.floryan.eu"
 description: >
   Marcin Floryan: Building organizations where purpose drives performance.
   Leadership, psychological safety, complexity, and organizational design.
-  Currently VP Software @Marshall Group. http://pronoun.is/he
+  Currently VP Software @Marshall Group. https://my.pronouns.page/are/he/him
 tagline: Marcin's personal website
 keywords:
   - Marcin Floryan
@@ -53,3 +53,10 @@ plugins:
 
 jekyll-figure:
   paragraphs: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  ignore:
+    envs: development
