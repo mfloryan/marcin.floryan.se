@@ -7,6 +7,7 @@ This becomes the https://marcin.floryan.se/ website after being parsed through [
 - [jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at)
 - [jekyll-figure](https://github.com/paulrobertlloyd/jekyll-figure)
 - [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
+- [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
 
 ## Docker images
 
