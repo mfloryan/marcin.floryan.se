@@ -14,4 +14,4 @@ node_modules/
 _site/
 marcin.floryan.se/
 **/css/main.css*
-site/vendor
+site/vendor/
