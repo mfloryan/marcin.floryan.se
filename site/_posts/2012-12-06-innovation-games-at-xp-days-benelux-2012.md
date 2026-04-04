@@ -9,7 +9,7 @@ tags: [innovation games, product box, xpdays]
 
 A few days ago I had the great opportunity to facilitate a product box innovation game session with [Yves Hanoulle](https://www.hanoulle.be/) at [XP Days Benelux 2012](https://www.xpday.net/Xpday2012/FrontPage.html).
 
-[![](/assets/images/2012/12/product-box-action2-xp-days-2012.jpg "product-box-action2-xp-days-2012")](https://www.flickr.com/photos/yveshanoulle/8240894551/in/set-72157632163005314/)The conference itself is a perfect place to meet and be inspired by experienced, enthusiastic and energetic people. After all, what else would draw ten people into a session which:
+[![A participant decorating a cardboard product box with markers during the innovation game session](/assets/images/2012/12/product-box-action2-xp-days-2012.jpg "product-box-action2-xp-days-2012")](https://www.flickr.com/photos/yveshanoulle/8240894551/in/set-72157632163005314/)The conference itself is a perfect place to meet and be inspired by experienced, enthusiastic and energetic people. After all, what else would draw ten people into a session which:
 
 - was the last session of a very long day
 - started after 20.30 and kept everyone till 22.00
@@ -25,11 +25,11 @@ We have decided to run the session together as earlier this year Yves and I have
 
 Since it was the 10-years anniversary of the conference we have picked the [product box](https://innovationgames.com/product-box/) activity and decided to focus it on the next 10 years. The task our participants faced was to build a box for an event they would pick out of the many other conferences on a shelf.
 
-[![](/assets/images/2012/12/product-box-action-xp-days-2012.jpg "product-box-action-xp-days-2012")](https://www.flickr.com/photos/yveshanoulle/8240893969/in/set-72157632163005314/)
+[![Participants decorating cardboard product boxes at a table covered with craft supplies and beer](/assets/images/2012/12/product-box-action-xp-days-2012.jpg "product-box-action-xp-days-2012")](https://www.flickr.com/photos/yveshanoulle/8240893969/in/set-72157632163005314/)
 
 Lost of interesting, clever and unexpected ideas were put forward, some highlighted what's already good about XP Days and some suggested changes going forward. Here is a rough cut of some of the things the product boxes for 2022 highlighted:
 
-[![](/assets/images/2012/12/product-box-xp-days-2012.jpg "product-box-xp-days-2012")](https://www.flickr.com/photos/yveshanoulle/8240924381/in/set-72157632163005314/)
+[![A finished product box decorated with a head illustration and the words "XP Week", "Feed your brain", and "Just be creative"](/assets/images/2012/12/product-box-xp-days-2012.jpg "product-box-xp-days-2012")](https://www.flickr.com/photos/yveshanoulle/8240924381/in/set-72157632163005314/)
 
 - hands-on sessions
 - games (application, ideas, practice)

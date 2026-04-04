@@ -25,6 +25,6 @@ There is also another important problem when we fly the values on a poster, espe
 
 If you still think it's a good idea to list your values, here is a real example, snapped somewhere 'in passing'. A list of corporate values...
 
-![](/assets/images/2011/09/faux-values.jpg "faux-values")
+![A corporate values list on a wall reading: Integrity is Everything, Insightful Expertise, Service Excellence, Inspiring Innovation, Each Person Counts, Results-driven, Social Responsibility](/assets/images/2011/09/faux-values.jpg "faux-values")
 
 Over to you Catila, so what's wrong with these values?

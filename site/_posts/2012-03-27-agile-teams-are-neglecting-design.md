@@ -14,7 +14,7 @@ I can already hear your objections. Surely, you will say, many Agile teams these
 > "The act of writing a unit test is more an act of design than of verification".
 
 The problem, however, is not if we are doing TDD but how we are doing it. Writing unit tests before production code, watching the tests fail, writing corresponding production code until the test passes and then refactoring requires discipline. Many new Agile teams lack that discipline. To gain the full benefits of TDD also requires a lot of practice and teams may simply have not had the time to accrue enough.[  
- ![](/assets/images/2012/03/454726783_6ba61c86fb.jpg "Scaffolding from flickr by Brett Weinstein under cc-by-sa 2.0 license")](https://www.flickr.com/photos/nrbelex/454726783/in/photostream/)
+ ![Close-up of yellow metal scaffolding covering a building facade](/assets/images/2012/03/454726783_6ba61c86fb.jpg "Scaffolding from flickr by Brett Weinstein under cc-by-sa 2.0 license")](https://www.flickr.com/photos/nrbelex/454726783/in/photostream/)
 
 These two obstacles aside, I still don't see the practice of TDD shaping the design of teams' code in a way that [Steve](https://twitter.com/sf105) and [Nat](https://twitter.com/#!/natpryce) describe in their excellent "[Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Signature/dp/0321503627)" book. I think among the reasons sits this one: **frameworks**.
 

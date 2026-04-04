@@ -7,7 +7,7 @@ type: post
 tags: [complexity, failure, learning]
 ---
 
-![](/assets/images/2012/01/Fraktalträd-300x271.jpg "Fraktalträd")We live in a [complex adaptive system](https://en.wikipedia.org/wiki/Complex_system). It is called a [biosphere](https://en.wikipedia.org/wiki/Biosphere). As complex systems go, they are often themselves composed of complex systems at a smaller scale. A big [fractal](https://en.wikipedia.org/wiki/Fractal) if you like.
+![Computer-generated fractal tree with golden branching structure on a black background](/assets/images/2012/01/Fraktalträd-300x271.jpg "Fraktalträd")We live in a [complex adaptive system](https://en.wikipedia.org/wiki/Complex_system). It is called a [biosphere](https://en.wikipedia.org/wiki/Biosphere). As complex systems go, they are often themselves composed of complex systems at a smaller scale. A big [fractal](https://en.wikipedia.org/wiki/Fractal) if you like.
 
 Any human social group-based endeavor in a cultural and social system is a complex adaptive system. Software development teams and organisations are one example.
 

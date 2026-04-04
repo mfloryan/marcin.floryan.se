@@ -36,7 +36,7 @@ It was an interesting experience to see some of the common **misconceptions** ab
 - _ScrumMaster is responsible for producing charts and creating process documentation_
   - What documentation? Who are the charts for?
 
-[![](/assets/images/2010/07/certificates-by-dennis-wong-flickr-300x200.jpg "certificates-by-dennis-wong-flickr")](https://www.flickr.com/photos/denniswong/2406135310/)I can now re-iterate a _Certified ScrumMaster_ is certified or, in other words, simply **confirmed** to have **attended the two day training**. Is that enough to be a ScrumMaster on a Scrum team - yes. Is it useful - yes. It is essential - no. Does that make one a good (or a better) ScrumMaster - definitely not. Since the pivotal role of a ScrumMaster is to **work with people** the only way to become good and competent is to practice, practice and practice and go through many deliberate learning cycles.
+[![A large pile of rolled-up certificates tied with red ribbon](/assets/images/2010/07/certificates-by-dennis-wong-flickr-300x200.jpg "certificates-by-dennis-wong-flickr")](https://www.flickr.com/photos/denniswong/2406135310/)I can now re-iterate a _Certified ScrumMaster_ is certified or, in other words, simply **confirmed** to have **attended the two day training**. Is that enough to be a ScrumMaster on a Scrum team - yes. Is it useful - yes. It is essential - no. Does that make one a good (or a better) ScrumMaster - definitely not. Since the pivotal role of a ScrumMaster is to **work with people** the only way to become good and competent is to practice, practice and practice and go through many deliberate learning cycles.
 
 Also, it does make a difference, who your trainer is. I was lucky (or picked smart).
 

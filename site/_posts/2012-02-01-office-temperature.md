@@ -7,7 +7,7 @@ type: post
 tags: [difficult conversations, environment, office, teams, temperature]
 ---
 
-[![](/assets/images/2012/02/3414150701_b493bb7040-300x255.jpg "Desktop Fan by JimmytheJ on flickr under cc-by-nc-nd license")](https://www.flickr.com/photos/10962799@N04/3414150701/in/photostream/)It was a beautiful, crisp, cold winter morning today with temperatures finally dropping below zero so I have really enjoyed my cycle to work. I bet there are others, who, on the other hand, didn't share my weather enthusiasm as they might have had to give up those precious moments of morning sleep to get up earlier and defrost their cars. It got me thinking about the temperature in our offices.
+[![Lego figure sitting at a desk with a desktop electric fan](/assets/images/2012/02/3414150701_b493bb7040-300x255.jpg "Desktop Fan by JimmytheJ on flickr under cc-by-nc-nd license")](https://www.flickr.com/photos/10962799@N04/3414150701/in/photostream/)It was a beautiful, crisp, cold winter morning today with temperatures finally dropping below zero so I have really enjoyed my cycle to work. I bet there are others, who, on the other hand, didn't share my weather enthusiasm as they might have had to give up those precious moments of morning sleep to get up earlier and defrost their cars. It got me thinking about the temperature in our offices.
 
 I think it’s a fair assumption that most of us work in some sort of open-space environments equipped with the usual comforts of temperature control; heating in the winter, air-conditioning in the summer; and the little innocent control dial somewhere in the corner. I have often observed all those interesting, intricate patterns of human behaviour directed at the lonely thermostat.
 

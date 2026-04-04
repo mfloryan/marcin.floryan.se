@@ -11,7 +11,7 @@ tags: [agile, communication]
 
 I love this story. You should go an read it now.
 
-![](/assets/images/2011/10/Zosia-climbing-frame.jpg "Zosia-climbing-frame")Imagine Joppe wasn't climbing trees but playground toys and frames instead, like Zosia, or a climbing wall with gear and protection. A safe, soft, shock-absorbent surface underneath. Even though Yves might still think he needs to trust his boy to climb anything - his heart wouldn't be pounding nearly as much. He wouldn't sweat as he might when Joppe misses a branch. Accepting that Joppe loves to climb trees and allowing him to do so is powerful at building trust. It works so well, because Yves includes a healthy does of _essential trust-building ingredient - **risk** _.
+![A young girl climbing on red playground bars in a park](/assets/images/2011/10/Zosia-climbing-frame.jpg "Zosia-climbing-frame")Imagine Joppe wasn't climbing trees but playground toys and frames instead, like Zosia, or a climbing wall with gear and protection. A safe, soft, shock-absorbent surface underneath. Even though Yves might still think he needs to trust his boy to climb anything - his heart wouldn't be pounding nearly as much. He wouldn't sweat as he might when Joppe misses a branch. Accepting that Joppe loves to climb trees and allowing him to do so is powerful at building trust. It works so well, because Yves includes a healthy does of _essential trust-building ingredient - **risk** _.
 
 This is something I often see people miss. If you want to establish trust there must be risk involved. You can't just tell people you trust them to get them coding and then send three project managers to watch their every move and ask for detailed reports every week.
 
