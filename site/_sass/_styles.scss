@@ -74,6 +74,9 @@ body > footer {
 
   a {
     color: var(--pico-color-slate-200);
+    &:hover {
+      background-color: transparent;
+    }
   }
 }
 
