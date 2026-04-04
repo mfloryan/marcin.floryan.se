@@ -10,10 +10,10 @@ tags: [mindmap, teams, testing]
 The project was going well, at least as far as approach to analysis and development was concerned. We still haven’t agreed on a sensible approach to testing though. The issue has repeatedly been raised in retrospectives and has always sparked a heated debate as strong and, not always compatible, opinions were held. It was high time to tackle the challenge and agree on a sensible solution.
 
 {% figure caption: "Drawing from Bill Jarrard" %}
-[![](/assets/images/2011/03/six-hats-men.png "six hats men")](http://www.fuzz2buzz.com/en/node/1568)
+[![](/assets/images/2011/03/six-hats-men.png "six hats men")](https://www.fuzz2buzz.com/en/node/1568)
 {% endfigure %}
 
-I have used Edward De Bono’s _[6 Thinking Hats](http://en.wikipedia.org/wiki/Six_Thinking_Hats "Six thinking hats on Wikipedia") technique_, based on De Bono's [book](http://amzn.to/hCkTw5 ), before  but never directly applied in context of software development. Nevertheless, it seemed like a tool well worth trying, particularly given the emotions were running high.
+I have used Edward De Bono’s _[6 Thinking Hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats "Six thinking hats on Wikipedia") technique_, based on De Bono's [book](https://amzn.to/hCkTw5 ), before  but never directly applied in context of software development. Nevertheless, it seemed like a tool well worth trying, particularly given the emotions were running high.
 
 The idea is based on the premise that our brain has different ways in which it operates and they can yield different outcomes. There are 6 hats, each with a different colour (white, red, black, yellow, green and blue) representing different thinking processes (facts & information, feelings & emotions, negative, positive & optimistic, creativity, the big picture). The team works through a problem by successively and explicitly applying different hats in their thinking. Sometimes real colourful hats are worn but usually just a motion of “selecting a colour” is sufficient. Depending on the problem at hand, its structure and required focus, the hats are applied in specific order creating a program (such as generating ideas, identifying solutions, process improvements, solving problems). For example, the following sequence of colours: Blue, White, Green, Yellow, Black, Red may be good for choosing between alternatives.
 

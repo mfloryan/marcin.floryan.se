@@ -7,7 +7,7 @@ type: post
 tags: [management, organisations, responsibility, stoos]
 ---
 
-[![Corporate Responsibility Hides Behind Ties photo by _Loaf_ on flickr](/assets/images/2012/05/4695378009_f177b5de9d_z.jpg "4695378009\_f177b5de9d\_z")](http://www.flickr.com/photos/stuffedanimalbrigade/4695378009/)I was considering recently whether a person higher in an organisation’s hierarchy should override a decision taken by their subordinates if they thought it was wrong. I realised an underlying assumption that I ignored in that discussion. The assumption is that decisions, taken higher up the chain of command, are more important because of a higher level of responsibility bestowed on the person taking them.
+[![Corporate Responsibility Hides Behind Ties photo by _Loaf_ on flickr](/assets/images/2012/05/4695378009_f177b5de9d_z.jpg "4695378009\_f177b5de9d\_z")](https://www.flickr.com/photos/stuffedanimalbrigade/4695378009/)I was considering recently whether a person higher in an organisation’s hierarchy should override a decision taken by their subordinates if they thought it was wrong. I realised an underlying assumption that I ignored in that discussion. The assumption is that decisions, taken higher up the chain of command, are more important because of a higher level of responsibility bestowed on the person taking them.
 
 I don’t have a clear answer is my head yet, so I welcome your input on the few thoughts that follow.
 

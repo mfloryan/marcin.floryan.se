@@ -7,13 +7,13 @@ type: post
 tags: [agile, management]
 ---
 
-Admittedly it was [@PDarral](http://twitter.com/PDarrall) who pointed this out to me. I was never comfortable with the idea myself either. It's **sprint burndown charts** that use " **Hours of remaining effort**" on the vertical axis.
+Admittedly it was [@PDarral](https://twitter.com/PDarrall) who pointed this out to me. I was never comfortable with the idea myself either. It's **sprint burndown charts** that use " **Hours of remaining effort**" on the vertical axis.
 
-The Scrum alliance itself give the following [definition](http://www.scrumalliance.org/articles/39-glossary-of-scrum-terms#1116) for sprint burndown chart:
+The Scrum alliance itself give the following [definition](https://www.scrumalliance.org/articles/39-glossary-of-scrum-terms#1116) for sprint burndown chart:
 
 > A sprint burndown chart (or "sprint burndown graph") depicts the total task hours remaining per day. This shows you where your team stands regarding completing the tasks that comprise the product backlog items that achieve the goals of the sprint. The X-axis represents days in the sprint, while the Y-axis is effort remaining (usually in ideal engineering hours).
 
-Mike Cohn too, [gives an example](http://www.mountaingoatsoftware.com/scrum/sprint-backlog), where effort remaining is tracked in hours. Scrum for Team System (STS) for Microsoft's TFS provides a picture along the similar lines:
+Mike Cohn too, [gives an example](https://www.mountaingoatsoftware.com/scrum/sprint-backlog), where effort remaining is tracked in hours. Scrum for Team System (STS) for Microsoft's TFS provides a picture along the similar lines:
 
 [![](/assets/images/2010/07/scrum-burndown-chart-tfs.png "scrum-burndown-chart-tfs")](/assets/images/2010/07/scrum-burndown-chart-tfs.png)
 
@@ -23,7 +23,7 @@ I know, it's not clock hours, it's remaining effort (ideal hours) and we are tra
 
 My answer to the problem is simple - although it requires some more discipline in analysis - break your stories down and track story points also in the sprint burndown chart.
 
-With these thoughts I was glad to listen to [Kevlin's Henney](http://www.two-sdg.demon.co.uk/curbralan/kevlin.html) [talk at NDC 2010](http://streaming.ndc2010.no/tcs/?id=1272299E-1DD1-4C11-B7A3-EBDE5B11A5B7) who made some further remarks along the same lines.
+With these thoughts I was glad to listen to [Kevlin's Henney](https://www.two-sdg.demon.co.uk/curbralan/kevlin.html) [talk at NDC 2010](https://streaming.ndc2010.no/tcs/?id=1272299E-1DD1-4C11-B7A3-EBDE5B11A5B7) who made some further remarks along the same lines.
 
 - Time against time is a utilisation graph - not what we meant to be plotting
 - We end up logging the amount of work we did - so just proved we are using 7 hours of the day as we said we would
@@ -31,4 +31,4 @@ With these thoughts I was glad to listen to [Kevlin's Henney](http://www.two-sdg
 - With 2 weeks iteration there are only 8 points of reference (8 working days) - not statistically significant for hourly estimates
 - **Visualise items of work left to complete**
 
-I'm glad Jeff Sutherland also [recommends burning story points](http://scrum.jeffsutherland.com/2009/04/sprint-burndown-by-hours-or-by-story.html).
+I'm glad Jeff Sutherland also [recommends burning story points](https://scrum.jeffsutherland.com/2009/04/sprint-burndown-by-hours-or-by-story.html).

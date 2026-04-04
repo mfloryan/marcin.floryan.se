@@ -8,7 +8,7 @@ tags: [management, teams]
 ---
 
 {% figure caption: "Lindesberg from flickr by Ahopsi" %}
-[![](/assets/images/2011/08/supermarket-shopping-by-Ahopsi.jpg "supermarket-shopping-by-Ahopsi")](http://www.flickr.com/photos/publish9/5820135423/in/photostream/)
+[![](/assets/images/2011/08/supermarket-shopping-by-Ahopsi.jpg "supermarket-shopping-by-Ahopsi")](https://www.flickr.com/photos/publish9/5820135423/in/photostream/)
 {% endfigure %}
 
 This morning, as I was cycling to work, I have noticed my rear tyre would do with some more air. I stopped by a large supermarket to see if I could buy a bike pump. Having quickly scanned the shelves with DIY and car accessories and some household goods, without much luck, I turned to one of the staff members:

@@ -36,7 +36,7 @@ main.container {
   min-height: 80vh;
 }
 
-nav {
+body > nav {
   padding-left: 2vw;
   padding-right: 2vw;
   background-color:  var(--pico-primary-background);
@@ -131,6 +131,9 @@ body > footer {
 
   a {
     color: var(--pico-color-slate-200);
+    &:hover {
+      background-color: transparent;
+    }
   }
 }
 
@@ -155,6 +158,10 @@ a:hover {
 
 i.fa-spotify {
   color: #1ED760
+}
+
+q {
+  font-style: italic;
 }
 
 header.front-page {
@@ -194,23 +201,41 @@ img.img-speaking {
   border-radius: 3rem;
 }
 
-article {
-  dl {
-    dd {
-      margin-bottom: 2rem;
-    }
-    dt {
-      font-weight: bold;
-      font-size: 0.9rem;
-      background-color: var(--pico-color-slate-100);
-    }
+dl {
+  dd {
+    margin-bottom: 2rem;
   }
+  dt {
+    font-weight: bold;
+    font-size: 0.9rem;
+    background-color: var(--pico-color-slate-100);
+  }
+}
 
+article {
   ol, ul {
     li {
       margin-bottom: 0;
     }
   }
+}
+
+main nav {
+  display: block;
+  ul {
+    display: block;
+    padding: 0;
+    list-style: none;
+    li {
+      display: list-item;
+      list-style: none;
+    }
+  }
+}
+
+
+#on-the-web div {
+  margin-bottom: var(--pico-block-spacing-vertical);
 }
 
 dl.events {

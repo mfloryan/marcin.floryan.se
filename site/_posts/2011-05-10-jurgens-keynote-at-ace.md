@@ -7,13 +7,13 @@ type: post
 tags: [agile, management]
 ---
 
-[![](/assets/images/2011/05/acecon-jurgen-appelo-closing-keynote-300x200.jpg "Jurgen Appelo closing keynote at ACE!")](http://www.flickr.com/photos/mfloryan/5589229244/in/set-72157626427187462/)You can now watch the closing keynote that [Jurgen Appelo](http://www.jurgenappelo.com/ "Jurgen Appelo") gave at the [Agile CE conference](http://agilece.com/ "The ACE conference") in Kraków.
+[![](/assets/images/2011/05/acecon-jurgen-appelo-closing-keynote-300x200.jpg "Jurgen Appelo closing keynote at ACE!")](https://www.flickr.com/photos/mfloryan/5589229244/in/set-72157626427187462/)You can now watch the closing keynote that [Jurgen Appelo](https://www.jurgenappelo.com/ "Jurgen Appelo") gave at the [Agile CE conference](https://agilece.com/ "The ACE conference") in Kraków.
 
-It's here: [http://agilece.com/home/2011/4/29/jurgen-appelo-closing-keynote.html](http://agilece.com/home/2011/4/29/jurgen-appelo-closing-keynote.html)
+It's here: [https://agilece.com/home/2011/4/29/jurgen-appelo-closing-keynote.html](https://agilece.com/home/2011/4/29/jurgen-appelo-closing-keynote.html)
 
 And you should, because Jurgen is a very good speaker and it was a great presentation with an important message.
 
-It talks about the s_even duties of great software professional_. What makes the talk even more interesting and relevant is that Jurgen weaves plenty of personal examples from how he approached writing his [Management 3.0](http://www.management30.com/) book.
+It talks about the s_even duties of great software professional_. What makes the talk even more interesting and relevant is that Jurgen weaves plenty of personal examples from how he approached writing his [Management 3.0](https://www.management30.com/) book.
 
 As Jurgen was giving examples of setting (and achieving) his personal goals (00:27:00), as he was demonstrating ways to organise himself (like validating every new blog post against a detailed check list 00:29:00) and when he showed how he measured his own progress (00:35:00) I was very keen _to watch the audience_.
 

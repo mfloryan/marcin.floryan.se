@@ -7,7 +7,7 @@ type: post
 tags: [".NET", C#, software development, Windows]
 ---
 
-Ever since I started writing windows applications, even though most of them were not in C or C++, almost every time I would refer back to Charles Petzold's [**Programming Windows**](http://www.charlespetzold.com/pw5/index.html). Whether it was Visual Basic, Delphi, .NET or even Java, there would eventually come a point, where the only way to achieve something would be to dig into the Win32 API and hook into the [message loop](http://en.wikipedia.org/wiki/Message_loop_in_Microsoft_Windows) directly.
+Ever since I started writing windows applications, even though most of them were not in C or C++, almost every time I would refer back to Charles Petzold's [**Programming Windows**](https://www.charlespetzold.com/pw5/index.html). Whether it was Visual Basic, Delphi, .NET or even Java, there would eventually come a point, where the only way to achieve something would be to dig into the Win32 API and hook into the [message loop](https://en.wikipedia.org/wiki/Message_loop_in_Microsoft_Windows) directly.
 
 I don't know why I thought writing a WPF application in .NET 4 for Windows 7 would be any different.
 
@@ -21,7 +21,7 @@ However, I wanted to achieve an alternative layout, without the frame but with t
 
 ![](/assets/images/2010/08/WPF-Window-some-transparency.png "WPF-Window-some-transparency")
 
-Finally, with a little bit of Interop spice by calling [Desktop Window Manager](http://msdn.microsoft.com/en-us/library/aa969540(VS.85).aspx) APIs I got the desired effect:
+Finally, with a little bit of Interop spice by calling [Desktop Window Manager](https://msdn.microsoft.com/en-us/library/aa969540(VS.85).aspx) APIs I got the desired effect:
 
 ![](/assets/images/2010/08/WPF-Window-native-shadow.png "WPF-Window-native-shadow")Mind you it only works if DWM is available (that is in Vista and Windows7) but I'm fine with that.
 
@@ -50,6 +50,6 @@ void ShellWindow_SourceInitialized(object sender, EventArgs e)
 }
 ```
 
-If you want to dig deeper there is [WPF Shell Integration Library](http://code.msdn.microsoft.com/WPFShell) that does some of this heavy lifting for you.
+If you want to dig deeper there is [WPF Shell Integration Library](https://code.msdn.microsoft.com/WPFShell) that does some of this heavy lifting for you.
 
-P.S. Seems like Java folks have [similar challenges](http://www.milewski.ws/2009/05/vista-glass-in-swt-application-continuation/).
+P.S. Seems like Java folks have [similar challenges](https://www.milewski.ws/2009/05/vista-glass-in-swt-application-continuation/).

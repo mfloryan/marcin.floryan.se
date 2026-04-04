@@ -7,6 +7,9 @@ node_modules/
 # Cache
 .jekyll-cache/
 
+#AI files
+.claude/
+
 # Generated content
 _site/
 marcin.floryan.se/

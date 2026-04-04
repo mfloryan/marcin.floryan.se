@@ -7,17 +7,17 @@ type: post
 tags: [coach retreat, coaching]
 ---
 
-Last Saturday I had a wonderful opportunity to facilitate my first [Coach Retreat](http://www.coachretreat.com/), the fourth one in a series that Oana and Yves have started. I want to share a few reflections and I’ll start with some important appreciations.
+Last Saturday I had a wonderful opportunity to facilitate my first [Coach Retreat](https://www.coachretreat.com/), the fourth one in a series that Oana and Yves have started. I want to share a few reflections and I’ll start with some important appreciations.
 
 ![Coach Retreat London](/assets/images/2013/03/coach-retreat-london.jpg)
 
-I appreciate [Cory](https://twitter.com/coreyhaines) for the [Code Retreats](http://coderetreat.org/) and [Rachel](https://twitter.com/rachelcdavies) for [Coding Dojos](http://agilecoach.typepad.com/agile-coaching/2010/08/improving-agile-coaching-skills.html) – two important ideas that have inspired the format of this Coach Retreat.
+I appreciate [Cory](https://twitter.com/coreyhaines) for the [Code Retreats](https://coderetreat.org/) and [Rachel](https://twitter.com/rachelcdavies) for [Coding Dojos](https://agilecoach.typepad.com/agile-coaching/2010/08/improving-agile-coaching-skills.html) – two important ideas that have inspired the format of this Coach Retreat.
 
-I appreciate [Oana](https://twitter.com/ojuncu) for combining the two and coming up the details of the format (you should also know that [Source Code](http://en.wikipedia.org/wiki/Source_Code) provided an important inspiration), and for being a great co-facilitator on the day and providing me space to own this event.
+I appreciate [Oana](https://twitter.com/ojuncu) for combining the two and coming up the details of the format (you should also know that [Source Code](https://en.wikipedia.org/wiki/Source_Code) provided an important inspiration), and for being a great co-facilitator on the day and providing me space to own this event.
 
 I appreciate [Yves](https://twitter.com/YvesHanoulle) for providing me with the opportunity to facilitate this event and for promoting it across... the world (naturally, Yves would aim for nothing less).
 
-I appreciate [Skills Matter](http://skillsmatter.com) – [Wendy](https://twitter.com/wendydevolder) for providing us with a great venue and a warm welcome and [Oana](https://twitter.com/OanaAtSM) who spent her Saturday looking after us and making us feel at home.
+I appreciate [Skills Matter](https://skillsmatter.com) – [Wendy](https://twitter.com/wendydevolder) for providing us with a great venue and a warm welcome and [Oana](https://twitter.com/OanaAtSM) who spent her Saturday looking after us and making us feel at home.
 
 Last but not least I want to appreciate the participants who waded through the streaks of rain in the unholy hours of the Saturday morning and through their enthusiasm, engagement and energy created and amazing day for all of us.
 

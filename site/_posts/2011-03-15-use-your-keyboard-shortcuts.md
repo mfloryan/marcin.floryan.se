@@ -9,7 +9,7 @@ redirect_from:
   - /blog/2011/03/use-your-keyboard-shorcuts/
 ---
 
-I can still hear J.B. audaciously whispering "_Shift+F10_" whenever I would reach for the mouse to run a suite of tests in IntelliJ. Although we [worked together](http://marcin.floryan.pl/blog/2010/11/pairing-with-jbrains "Pairing with @jbrains") a while ago the sound of his voice still reverberates in my head and has since prompted me to make a step improvement in the use of keyboard shortcuts in the IDEs.
+I can still hear J.B. audaciously whispering "_Shift+F10_" whenever I would reach for the mouse to run a suite of tests in IntelliJ. Although we [worked together](https://marcin.floryan.pl/blog/2010/11/pairing-with-jbrains "Pairing with @jbrains") a while ago the sound of his voice still reverberates in my head and has since prompted me to make a step improvement in the use of keyboard shortcuts in the IDEs.
 
 I used to think keyboard shortcuts were mostly for the black-hat ninja coders who spent their entire lives immersed in code. I was happy enough with _Ctrl+C_ and _Ctrl+V_, perhaps a _Ctrl+Shift+B_ at times. Everything else was there visibly accessible with a swift move of a mouse. I didn't worry about the pause to grab it, after all we all know _typing is not the bottleneck_.
 

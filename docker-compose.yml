@@ -35,6 +35,18 @@ services:
     command: >
       node node_modules/sass/sass.js --watch --poll --silence-deprecation=if-function site/_sass/main.scss site/assets/css/main.css
 
+  proof:
+    image: mf-site-jekyll
+    volumes:
+      - ./site:/site
+      - ./marcin.floryan.se:/marcin.floryan.se
+    command: >
+      bundle exec htmlproofer /marcin.floryan.se
+        --disable-external
+        --allow-hash-href
+        --assume-extension '.html'
+        --ignore-urls "/linkedin.com/,/twitter.com/"
+
   # Run `docker compose run --rm bundle` to update site/Gemfile.lock,
   # then `docker compose build` to rebuild the image with the new gems.
   bundle:

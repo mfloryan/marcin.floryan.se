@@ -7,9 +7,9 @@ type: post
 tags: [code, planning]
 ---
 
-Over a month ago Polish government air plane, Tu-154, [crashed in Russia](http://news.bbc.co.uk/1/hi/world/europe/8612825.stm). All 88 passengers and crew died. On board were top state officials including the President of Poland Lech Kaczyński, his wife, members of the government, several MPs across all parties, chairman of the National Bank of Poland, Military chiefs including chief of the General Staff, cultural and religious figures. The country has suffered a huge loss. It was beyond doubt the most tragic event in Poland's modern history.
+Over a month ago Polish government air plane, Tu-154, [crashed in Russia](https://news.bbc.co.uk/1/hi/world/europe/8612825.stm). All 88 passengers and crew died. On board were top state officials including the President of Poland Lech Kaczyński, his wife, members of the government, several MPs across all parties, chairman of the National Bank of Poland, Military chiefs including chief of the General Staff, cultural and religious figures. The country has suffered a huge loss. It was beyond doubt the most tragic event in Poland's modern history.
 
-Following a joint investigation by Russian and Polish experts (still ongoing) some facts begin to emerge and likely causes are being discussed. Sadly I can't resist the feeling I've seen this before. Having read Gladwell's "Outliers" and Ori & Rom Brafman's "[Sway: The irresistable pull of irrational behaviour](http://www.swaybook.com/)", where authors analyse some famous air disasters, I can see a pattern emerging. Here are some facts about the Polish crash:
+Following a joint investigation by Russian and Polish experts (still ongoing) some facts begin to emerge and likely causes are being discussed. Sadly I can't resist the feeling I've seen this before. Having read Gladwell's "Outliers" and Ori & Rom Brafman's "[Sway: The irresistable pull of irrational behaviour](https://www.swaybook.com/)", where authors analyse some famous air disasters, I can see a pattern emerging. Here are some facts about the Polish crash:
 
 - Extremely bad weather conditions - fog limiting visibility to below 100 m - air control recommended against landing
 - Non-crew member in the cockpit - one of the generals on board trying to make sure his pilots are doing a proper job

@@ -7,7 +7,7 @@ type: post
 tags: [agile, code, testing]
 ---
 
-Come a [User Story](http://agileatlas.org/articles/item/user-stories). A lightweight expression of a feature or user requirement. Often referred to as a "[placeholder for conversation](http://xprogramming.com/articles/expcardconversationconfirmation/)". Bread and butter of every single "agile" team I have seen and possibly many not-so-agile teams too.
+Come a [User Story](https://agileatlas.org/articles/item/user-stories). A lightweight expression of a feature or user requirement. Often referred to as a "[placeholder for conversation](https://xprogramming.com/articles/expcardconversationconfirmation/)". Bread and butter of every single "agile" team I have seen and possibly many not-so-agile teams too.
 
 A card with one sentence on the front and usually a list of "_acceptance criteria_" at the back... or a card with a sentence at the front and ... **a number**. A subtle pointer to an electronic card tracking system where conversations are substituted with mini-specifications, given-when-then wish lists or even detailed test-cases.
 

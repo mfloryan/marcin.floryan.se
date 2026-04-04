@@ -7,7 +7,7 @@ type: post
 tags: [recruitment, software development]
 ---
 
-[![Photo by 500CPM](/assets/images/2010/07/typewriter-by-500CPM-from-flickr-300x199.jpg "typewriter-by-500CPM-from-flickr")](http://www.flickr.com/photos/beta500/97819986/)
+[![Photo by 500CPM](/assets/images/2010/07/typewriter-by-500CPM-from-flickr-300x199.jpg "typewriter-by-500CPM-from-flickr")](https://www.flickr.com/photos/beta500/97819986/)
 
 I’m sure you have, many times, seen recruitment for software development positions that expected candidates to have _x number of years experience_ with a particular technology. Best if it’s a litany of technologies (ignore when they ask for 5 years with a technology that has only been out for 2). If you need a developer that’s what you do. If you’re a recruitment agent that’s all you can do (OK, with some exceptions).
 

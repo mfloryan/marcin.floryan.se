@@ -23,4 +23,4 @@ To me life and work are more like two sides of the same coin. Adding to one side
 
 Which model to adapt is entirely up to you and it can have great impact on your happiness and satisfaction. Choose wisely and consciously.
 
-P.S. If you feel I have brushed-off the issue of time, I did so because there is already a great answer about it: [Time isn't the problem](http://www.energizedwork.com/weblog/2009/07/time-isnt-the-problem-how-you-use-time-is) [💔 defunct as of 2024].
+P.S. If you feel I have brushed-off the issue of time, I did so because there is already a great answer about it: [Time isn't the problem](https://www.energizedwork.com/weblog/2009/07/time-isnt-the-problem-how-you-use-time-is) [💔 defunct as of 2024].

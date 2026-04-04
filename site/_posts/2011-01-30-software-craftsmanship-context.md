@@ -7,7 +7,7 @@ type: post
 tags: code
 ---
 
-We keep [discussing](http://marcin.floryan.pl/blog/2011/01/software-craftsmanship-discussion) the nature of software craftsmanship. We keep deliberating whether we focus too much on technical practices or too little; whether we lose sight of the customer needs or blinded by the urge to please them, sacrifice quality.
+We keep [discussing](https://marcin.floryan.pl/blog/2011/01/software-craftsmanship-discussion) the nature of software craftsmanship. We keep deliberating whether we focus too much on technical practices or too little; whether we lose sight of the customer needs or blinded by the urge to please them, sacrifice quality.
 
 I think these are good discussions. They lead to more thinking, more consideration and hopefully better understanding of the true nature of our undertaking.
 
@@ -17,4 +17,4 @@ I’ll make a blind assumption, and although I have no facts or studies at hand 
 
 Perhaps, to truly improve software development we shouldn’t be looking at development at all…
 
-**\*** - for more details read [Freedom from Command and Control](http://amzn.to/emxgVA) by John Seddon
+**\*** - for more details read [Freedom from Command and Control](https://amzn.to/emxgVA) by John Seddon

@@ -11,7 +11,7 @@ I'm an engineer. Most of the time these days I focus on software engineering so 
 
 My first attempt to change the headlight bulb back in November was right when it happened, late evening, dark, it's raining, bought a spare at a patrol station. Good 45 minutes of struggling got me as far as taking the old one out and I was properly fed up trying, 1.5 hours next day did not help either so in an attempt to save further frustration I stopped in a local garage hinting at my initial difficulties. Fortunately they took up the challenge and two hours later I had my bulb changed.
 
-With the experience last time around I decided this time to get the [Halfords](http://www.halfords.com/) guys to fit the new bulb for me. I was slightly suspicious though when it was kindly explained to me, I will only be charged for the service once the bulb is fitted. Guess what? I didn't pay. Falling far short of 2 hours the guy gave up when he couldn't even unplug the wires.
+With the experience last time around I decided this time to get the [Halfords](https://www.halfords.com/) guys to fit the new bulb for me. I was slightly suspicious though when it was kindly explained to me, I will only be charged for the service once the bulb is fitted. Guess what? I didn't pay. Falling far short of 2 hours the guy gave up when he couldn't even unplug the wires.
 
 Today, with renewed energy and determination not to let Citroen lure me into their trap, equipped with a camera to explore the headlight design, I took up the challenge and succeeded. In case you also wonder **how to change headlight bulb in Citroen C4** here are some hopefully helpful pictures and quick instructions.
 

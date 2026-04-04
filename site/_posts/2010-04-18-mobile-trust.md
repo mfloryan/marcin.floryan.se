@@ -8,7 +8,7 @@ tags: [agile, management]
 ---
 
 {% figure caption: "Photo by deprunk" %}
-[![](/assets/images/2010/04/301120440_305102b289-197x300.jpg "301120440\_305102b289")](http://www.flickr.com/photos/derpunk/301120440/)
+[![](/assets/images/2010/04/301120440_305102b289-197x300.jpg "301120440\_305102b289")](https://www.flickr.com/photos/derpunk/301120440/)
 {% endfigure %}
 
 If you know me, you know trust is one of those traits I value highly and find indispensable among people to create a real team. It is important for trust to exist between the members of the team or else they can't effectively work together. It is even more important for it to exist between the team leader or manager and the others or else neither can really enjoy their jobs.

@@ -7,7 +7,7 @@ type: post
 tags: [communication, email, organisations]
 ---
 
-[![press-while-talking from flickr by leef_smith under cc-nd-nc-2.0](/assets/images/2013/04/press-while-talking-from-flickr-by-leef_smith.jpg)](http://www.flickr.com/photos/leef_smith/74592826)I remember a good few years ago I was participating in some internal training lead by an external management consultant. One of the key messages he tried to pass on was that a majority of problems in organisations are simply due to poor communication.
+[![press-while-talking from flickr by leef_smith under cc-nd-nc-2.0](/assets/images/2013/04/press-while-talking-from-flickr-by-leef_smith.jpg)](https://www.flickr.com/photos/leef_smith/74592826)I remember a good few years ago I was participating in some internal training lead by an external management consultant. One of the key messages he tried to pass on was that a majority of problems in organisations are simply due to poor communication.
 
 Sure enough in most organisations I have experienced since, sooner or later, someone would point out insufficient, inadequate or simply misleading communication. Thus improving communication, mainly between management and the staff was repeatedly being professed as the golden solution. Lacking motivation, missing alignment, frustrated employees, and poor results of the annual engagement surveys would all be eradicated if we could only get better at comms. Somehow, this always seems to mean more emails. Hands up if your organisation has a team dedicated to disseminating information via this benevolent medium.
 

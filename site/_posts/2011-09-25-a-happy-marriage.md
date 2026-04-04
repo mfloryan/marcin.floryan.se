@@ -7,7 +7,7 @@ type: post
 tags: [agile, management]
 ---
 
-It was a lovely and clear morning on Friday even though the peering autumn has already added a palpable chill. It would have been a very refreshing cycle ride to the office had I not read your[lightning-fast fiery response](http://scrumplicity.wordpress.com/2011/09/22/valuable-marriage/) Cátia’s, in our pair-dialogue, on the train before. How energising! Wow! I must have broken my personal speed record :)
+It was a lovely and clear morning on Friday even though the peering autumn has already added a palpable chill. It would have been a very refreshing cycle ride to the office had I not read your[lightning-fast fiery response](https://scrumplicity.wordpress.com/2011/09/22/valuable-marriage/) Cátia’s, in our pair-dialogue, on the train before. How energising! Wow! I must have broken my personal speed record :)
 
 What a relief I felt to see your awesome analysis and a poignant response, what command of words:
 
@@ -15,7 +15,7 @@ What a relief I felt to see your awesome analysis and a poignant response, what 
 
 I rest my case, will just let you in on a secret... please don’t tell anyone: that young fellow you so aptly refer to was in fact a team of top company executives. _Woops._
 
-You mentioned trust, I love trusts, it’s a great value, and [Yves](http://twitter.com/yveshanoulle) added some [more insights](http://www.hanoulle.be/2011/09/who-do-you-trust/) so standby for another post…
+You mentioned trust, I love trusts, it’s a great value, and [Yves](https://twitter.com/yveshanoulle) added some [more insights](https://www.hanoulle.be/2011/09/who-do-you-trust/) so standby for another post…
 
 In the meantime Cátia, you have asked me a million dollar question – _How should a company create their values?_ What a nice challenge. If I knew, I guess I would be out there now selling my recipe for success. Thought, _to stay true to my values_, I would probably be giving it away.
 
@@ -27,4 +27,4 @@ I tell you more; it’s pretty damn hard too. Try asking your neighbour why she 
 
 Sounds like an obvious conclusion now, the true way to keep my marriage in good shape and make it grow is to spend those long, long hours talking, talking and talking… and discussing the undiscussable. _Voilá._
 
-PS. If you’d like to know where to start you might want to [read this book](http://www.amazon.co.uk/gp/product/014027782X?ie=UTF8&tag=marcflor-21&linkCode=shr&camp=3194&creative=21330&creativeASIN=014027782X&redirect=true&ref_=oss_product).
+PS. If you’d like to know where to start you might want to [read this book](https://www.amazon.co.uk/gp/product/014027782X?ie=UTF8&tag=marcflor-21&linkCode=shr&camp=3194&creative=21330&creativeASIN=014027782X&redirect=true&ref_=oss_product).

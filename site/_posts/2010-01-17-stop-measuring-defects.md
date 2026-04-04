@@ -21,4 +21,4 @@ Don't get me wrong. I don't believe in defect free software (just like black swa
 
 _Update:_
 
-I have found an interesting post on the subject of agile defect management: [http://www.agileadvice.com/2007/08/21/agileengineering/agile-and-lean-defect-tracking/](http://www.agileadvice.com/2007/08/21/agileengineering/agile-and-lean-defect-tracking/)
+I have found an interesting post on the subject of agile defect management: [https://www.agileadvice.com/2007/08/21/agileengineering/agile-and-lean-defect-tracking/](https://www.agileadvice.com/2007/08/21/agileengineering/agile-and-lean-defect-tracking/)

@@ -7,7 +7,7 @@ type: post
 tags: [culture, difficult conversations, kids, rewards]
 ---
 
-I bumped into this video on Facebook (via [Murray](http://twitter.com/onekilo79 )). It's supposed to be an experiment whereby parents gave their kids a terrible present and watched the reaction.
+I bumped into this video on Facebook (via [Murray](https://twitter.com/onekilo79 )). It's supposed to be an experiment whereby parents gave their kids a terrible present and watched the reaction.
 
 [Kids Get Terrible Presents](https://www.youtube.com/watch?v=q4a9CKgLprQ) - Video on YouTube
 
