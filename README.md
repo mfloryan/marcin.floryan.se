@@ -1,6 +1,6 @@
-# marcin.floryan.pl - Jekyll sources
+# marcin.floryan.eu — Jekyll sources
 
-This becomes the https://marcin.floryan.se/ website after being parsed through [Jekyll](https://jekyllrb.com/).
+This becomes the https://marcin.floryan.eu/ website after being parsed through [Jekyll](https://jekyllrb.com/). The same build is published to three domains — `marcin.floryan.eu` (canonical), `marcin.floryan.se`, and `marcin.floryan.pl` — all served from one deploy.
 
 ## Jekyl Plugins used
 
