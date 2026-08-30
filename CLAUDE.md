@@ -6,26 +6,20 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Jekyll-based personal website for Marcin Floryan. Static site with blog posts, speaking events, podcast recommendations, and quotes. The same build is published to three domains — **`marcin.floryan.eu` is canonical** (it's the `url` in `_config.yaml` and feeds `jekyll-seo-tag`), with `marcin.floryan.se` and `marcin.floryan.pl` serving the same content. Jekyll source lives in `site/`; the production build is written to the `marcin.floryan.se/` directory (gitignored — the directory name does not track the canonical domain) and deployed from there.
 
-Everything runs in Docker — no local Ruby or Node required. `docker-compose.yml` defines all services; the shell scripts below are thin wrappers over `docker compose`.
+Everything runs in Docker — no local Ruby or Node required. `docker-compose.yml` defines the services; the `Makefile` is the entry point (`make help` lists targets). All targets shell out to `docker compose` (or `docker run` / `rsync`).
 
 ## Development
 
-**Start dev server** — `./serve.sh`
-Runs `docker compose up serve sass`: Jekyll with livereload (ports 4000 and 35729) plus the SASS watcher that recompiles `site/assets/css/main.css` on change. `.claude/launch.json` exposes the same thing as the `jekyll` preview config on port 4000.
-
-**Production build** — `./build.sh`
-Destructive and multi-step: deletes `marcin.floryan.se/` and the compiled CSS, recompiles `main.css` **compressed**, runs `jekyll build` (`JEKYLL_ENV=production`) into `marcin.floryan.se/`, then validates the output with **htmlproofer** (`proof` service). Run this before deploying.
-
-**Validate an existing build only** — `docker compose run --rm proof`
-htmlproofer with `--disable-external`; ignores `linkedin.com` and `twitter.com`.
-
-**Deploy** — `./sync.sh`
-`rsync --checksum --delete-after` of `marcin.floryan.se/` to `klint.floryan.se:/srv/www/sites/floryan.se/marcin/`. Build first.
-
-**Update Ruby gems** (after editing `site/Gemfile`) — `docker compose run --rm bundle` then `docker compose build`
-`bundle update` writes the new `site/Gemfile.lock` via the volume mount; the rebuild bakes the gems into the image.
-
-**Update Node packages** (after editing `package.json`) — `docker compose build sass`
+| Command | What it does |
+|---|---|
+| `make serve` | Dev server + SASS watcher. Jekyll livereload on ports 4000 and 35729; the `sass` service recompiles `site/assets/css/main.css` on change. Ctrl-C stops it, then `docker compose down` runs. `.claude/launch.json` starts the same two services directly for the Claude Code preview. |
+| `make build` | Production build. `clean` (deletes `marcin.floryan.se/` and compiled CSS) → compile `main.css` **compressed** → `jekyll build` (`JEKYLL_ENV=production`) into `marcin.floryan.se/` → **htmlproofer** (`--disable-external`; ignores `linkedin.com` / `twitter.com`). |
+| `make proof` | htmlproofer only, against the existing build output. |
+| `make deploy` | `make build`, then `rsync --checksum --delete-after` of `marcin.floryan.se/` to `klint.floryan.se:/srv/www/sites/floryan.se/marcin/`. |
+| `make clean` | Remove the build output and compiled CSS. |
+| `make gems` | `bundle update` in the jekyll container (rewrites `site/Gemfile.lock` via the `./site` mount), then `docker compose build` to bake gems into the image. Run after editing `site/Gemfile`. |
+| `make packages` | Update `sass` to its latest release via a throwaway `node:22-slim` container with `--package-lock-only` (rewrites `package.json` + `package-lock.json`, leaves no host `node_modules`), then rebuild the `sass` image. Run after editing `package.json`. |
+| `make deps` | `gems` + `packages`. |
 
 ## Architecture
 

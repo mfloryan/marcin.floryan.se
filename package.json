@@ -1,4 +1,6 @@
 {
+  "name": "marcin.floryan.se",
+  "private": true,
   "dependencies": {
     "sass": "^1.103.1"
   }

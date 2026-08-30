@@ -36,31 +36,18 @@ I have decided to customise the Pico CSS bundle using SASS. Jekyll supports SASS
 
 ## Workflow
 
-**Dev server** (Jekyll + SASS watcher, both in Docker):
-```sh
-./serve.sh
-```
+Everything runs through `make` (all targets run in Docker — no local Ruby or Node). Run `make help` for the full list.
 
-**Production build** (Jekyll build + htmlproofer validation):
-```sh
-./build.sh
-```
-
-**Run htmlproofer only** (against the last build):
-```sh
-docker compose run --rm proof
-```
-
-**Update Ruby gems** (when changing `site/Gemfile`):
-```sh
-docker compose run --rm bundle
-docker compose build
-```
-
-**Update Node packages** (when changing `package.json`):
-```sh
-docker compose build sass
-```
+| Command | Purpose |
+|---|---|
+| `make serve` | Dev server + SASS watcher (Jekyll livereload on :4000). Ctrl-C to stop. |
+| `make build` | Production build: compressed CSS + Jekyll build + htmlproofer validation. |
+| `make proof` | Run htmlproofer only, against the last build. |
+| `make deploy` | Build, then rsync the output to the production server. |
+| `make gems` | Update Ruby gems (`site/Gemfile.lock`) and rebuild the image. Run after changing `site/Gemfile`. |
+| `make packages` | Update the `sass` package (`package-lock.json`) and rebuild the image. Run after changing `package.json`. |
+| `make deps` | `gems` + `packages`. |
+| `make clean` | Remove the build output and compiled CSS. |
 
 ## Useful pointers
 
