@@ -39,11 +39,19 @@ I gladly present talks at universities, internal company events and conferences.
 </p>
 
 <h3>Upcoming talks</h3>
+{% assign upcoming = site.events | where_exp: "e", "e.date >= site.time" | sort: "date" %}
+{% if upcoming.size > 0 %}
 <dl>
-    <dt>03 June 2026, Copenhagen 🇩🇰</dt><dd><b>Innovation Roundtable Workshop</b> hosted by Maersk<br>
-    Evolving Leadership for a New Reality: Amplifying Agility, Learning, and Human Connection in the Age of AI
+    {% for event in upcoming %}
+    <dt>{{ event.date | date: "%d %B %Y" }}{% if event.location %}, {{ event.location }}{% endif %}</dt>
+    <dd><b>{{ event.name }}</b><br>
+    {{ event.title }}
+    {%- assign body = event.content | strip_newlines -%}
+    {%- if body != empty %} <small>(<a href="{{ event.url }}">details</a>)</small>{%- endif -%}
     </dd>
+    {% endfor %}
 </dl>
+{% endif %}
 
 <p>
 See also <a href="/events/">past events...</a>
